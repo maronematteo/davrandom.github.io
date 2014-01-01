@@ -1,0 +1,34 @@
+---
+layout: post
+title: Brochure Ubuntu Phone and Tablets
+tags: []
+---
+Non so se sono già comparso in rete il materiale cartaceo che Canonical sta utilizzando per promuovere --tra OEMS e operatori-- il suo SO per tablet e smartphones. 
+La settimana scorsa qui a Barcellona c'è stato il "Mobile World Congress":http://en.wikipedia.org/wiki/Mobile_World_Congress 2013 e sono riuscito a entrare in possesso di una copia delle brochure fornita da Canonical.
+
+p=. *Fronte e retro.*
+
+p=. !http://scaini.org/site/images/26t.jpg?1362493988!:http://scaini.org/site/images/26.jpg
+!http://scaini.org/site/images/36t.jpg?1362494695!:http://scaini.org/site/images/36.jpg
+
+
+p=. *Smartphone.*
+
+p=. !http://scaini.org/site/images/27t.jpg?1362494057!:http://scaini.org/site/images/27.jpg
+!http://scaini.org/site/images/28t.jpg?1362494120!:http://scaini.org/site/images/28.jpg
+
+
+p=. *Tablet.*
+
+p=. !http://scaini.org/site/images/29t.jpg?1362494155!:http://scaini.org/site/images/29.jpg
+!http://scaini.org/site/images/30t.jpg?1362494191!:http://scaini.org/site/images/30.jpg
+!http://scaini.org/site/images/31t.jpg?1362494236!:http://scaini.org/site/images/31.jpg
+!http://scaini.org/site/images/32t.jpg?1362494372!:http://scaini.org/site/images/32.jpg
+!http://scaini.org/site/images/33t.jpg?1362494442!:http://scaini.org/site/images/33.jpg
+!http://scaini.org/site/images/34t.jpg?1362494508!:http://scaini.org/site/images/34.jpg
+!http://scaini.org/site/images/35t.jpg?1362494637!:http://scaini.org/site/images/35.jpg
+
+Io li trovo piuttosto ben fatti. 
+Nel frattempo sono uscite le `immagini' di ubuntu per Nexus 4, 7 e 10 ... attendo speranzoso di poterlo provare anche sul mio nuovo (davvero!) HTC Desire Z (con cui ho fatto queste foto "e non solo":http://www.flickr.com/photos/davrandom/sets/72157632877238105/ ).
+
+ 

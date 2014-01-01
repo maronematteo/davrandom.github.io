@@ -1,0 +1,9 @@
+---
+layout: post
+title: Stereotypes
+tags: []
+---
+When we in Europe think about the American people, we have almost this idea:
+
+<txp:arc_youtube video="http://youtu.be/KMmqqKV49cg" width="500" ratio="16:9" />
+

@@ -1,5 +1,5 @@
 require "rubygems"
-require "bundler/setup"
+#require "bundler/setup"
 require "stringex"
 
 ## -- Rsync Deploy config -- ##
@@ -9,10 +9,10 @@ ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "rsync"
+deploy_default = "push"
 
 # This will be configured for you when you run config_deploy
-deploy_branch  = "gh-pages"
+deploy_branch  = "master"
 
 ## -- Misc Configs -- ##
 
@@ -78,6 +78,7 @@ task :preview do
   puts "Starting to watch source with Jekyll and Compass. Starting Rack on port #{server_port}"
   system "compass compile --css-dir #{source_dir}/stylesheets" unless File.exist?("#{source_dir}/stylesheets/screen.css")
   jekyllPid = Process.spawn({"OCTOPRESS_ENV"=>"preview"}, "jekyll --auto")
+  #jekyllPid = Process.spawn({"OCTOPRESS_ENV"=>"preview"}, "jekyll build")
   compassPid = Process.spawn("compass watch")
   rackupPid = Process.spawn("rackup --port #{server_port}")
 
