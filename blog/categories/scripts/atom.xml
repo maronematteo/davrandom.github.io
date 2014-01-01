@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Scripts | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/scripts/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[From Ogg to Avi With a Simple Script]]></title>
+    <link href="http://davrandom.github.io/blog/2012/04/17/from-ogg-to-avi-with-a-simple-script/"/>
+    <updated>2012-04-17T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/04/17/from-ogg-to-avi-with-a-simple-script</id>
+    <content type="html"><![CDATA[<p>A strange thing is that avidemux works with many video and audio formats, but not our beloved ogg. So some time ago searching around the web for a method to convert a ogg into some avi format and I found a small script. Since data corruption si always possible, I post the solution to the web for future memory.</p>
+
+<p>If you want to <em>convert only one file at time</em></p>
+
+<p>bc. mencoder oggfilename.ogg -ovc xvid -oac mp3lame -xvidencopts pass=1 -o avifilename.avi</p>
+
+<p>If you want to <em>convert a batch of files</em></p>
+
+<p>bc. #!/bin/bash <br></p>
+
+<h1>ogv to avi <br></h1>
+
+<h1>Call this with multiple arguments <br></h1>
+
+<h1>for example : ls *.{ogv,OGV} | xargs ogv2avi <br></h1>
+
+<p>N=$#; <br>
+echo &ldquo;Converting $N files !&rdquo; <br>
+for ((i=0; i&lt;=(N-1); i++)) <br>
+do <br>
+echo &ldquo;converting&rdquo; $1 <br>
+filename=${1%.*} <br>
+mencoder &ldquo;$1&rdquo; -ovc xvid -oac mp3lame -xvidencopts pass=1 -o $filename.avi <br>
+shift 1 <br>
+done</p>
+
+<p>where ogv2avi is the name of this script. (If its usage is not obvious, just ask)</p>
+
+<p>Note: This is not my product, so the credit goes to someone else (don&rsquo;t know who&hellip; I found this some years ago).</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,260 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>ROOT Packages for Debian and Ubuntu - /dav/random</title>
+  <meta name="author" content="davrandom">
+
+  
+  <meta name="description" content="What is ROOT?
+ROOT is a framwork for data analysis, written in C++ and developed by CERN.
+What are you doing then?
+As you might have noticed the &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://davrandom.github.io/blog/2013/05/29/root-packages-for-debian-and-ubuntu">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="/dav/random" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">/dav/random</a></h1>
+  
+    <h2>Some stuff of mine</h2>
+  
+		<a class="link-it" href="/blog/categories/it/">it</a>
+                <a class="link-en" href="/blog/categories/en/">en</a>
+                <a class="link-es" href="/blog/categories/es/">es</a>
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:davrandom.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">ROOT Packages for Debian and Ubuntu</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-05-29T00:00:00+02:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+
+  </header>
+
+
+<div class="entry-content"><h2>What is <span class="caps">ROOT</span>?</h2>
+<p><a href="http://root.cern.ch"><span class="caps">ROOT</span></a> is a framwork for data analysis, written in C++ and developed by <a href="http://public.web.cern.ch/public/"><span class="caps">CERN</span>.</a></p>
+<h2>What are <em>you</em> doing then?</h2>
+<p>As you might have noticed the debian packages (debs) for <span class="caps">ROOT</span> in Debian and Ubuntu repositories are quite old (5.18). So what I am doing is to build a monolithic package of <span class="caps">ROOT</span>.</p>
+<h2>What are you <em><span class="caps">NOT</span></em> doing?</h2>
+<p>I&#8217;m not a <span class="caps">ROOT</span> developer, and I do not answer to <span class="caps">ROOT</span> related questions.</p>
+<h2>Some other details to know <span class="caps">BEFORE</span> download and installation</h2>
+<p>The enabled <span class="caps">ROOT</span> plugins are: minuit2 roofit unuran tmva (if you think you need some other, just write a comment here, I&#8217;ll provide).</p>
+<p><b>Older than 5.34.07</b> packages are going to be installed on /opt/root, to not conflict with Root package provided by Ubuntu repos.</p>
+<h2>Download</h2>
+<p>I provide two version of <span class="caps">ROOT</span> package, one compiled for <a href="http://sourceforge.net/projects/cernrootdebs/files/latest-recommended/">64 bits</a> and one for <a href="http://sourceforge.net/projects/cernrootdebs/files/32bits!/">32 bits</a> processors. <a href="http://sourceforge.net/projects/cernrootdebs/files">Here</a> you can find the two versions. <a href="https://sourceforge.net/projects/cernrootdebs/files/latest/download">The most up-to-date is the 64 bits release. Download!</a></p>
+<h2>Installation</h2>
+<p>You double click on the downloaded package and Debian or Ubuntu will prompt a window&#8230; just follow the usual instructions.</p>
+<h2>Have fun!</h2>
+<p><a href="http://sourceforge.net/donate/index.php?group_id=309830"><img src="http://images.sourceforge.net/images/project-support.jpg" width="88" height="32" border="0" alt="Support This Project" /> </a><br />
+If you like this packet and want to pay for my time, you are welcome ;) <br />
+(important note: I&#8217;m not connected to cern developers in any way. I&#8217;m not asking for money, this package is free!)</p>
+<p>If you have any doubt just ask (commenting down here or at sourceforge <a href="https://sourceforge.net/projects/cernrootdebs/forums/forum/1106773">here</a>)&#8230; if you need help with <span class="caps">ROOT</span>, read the manual :)</p>
+<hr>
+<p><em>just for the lazy ones:</em></p>
+<ul>
+	<li><a href="http://root.cern.ch/drupal/content/users-guide">user&#8217;s manual</a></li>
+	<li><a href="http://root.cern.ch/drupal/content/reference-guide">reference guide</a></li>
+	<li><a href="http://root.cern.ch/drupal/content/howtos">how-to&#8217;s</a></li>
+	<li><a href="http://root.cern.ch/phpBB3/"><span class="caps">ROOT</span> forum</a></li>
+</ul>
+<hr>
+<h1>for the skilled ones: <a href="http://sourceforge.net/projects/cernrootdebs/files/latest/download">direct link to the latest package.</a></h1>
+<hr>
+<h2>Details</h2>
+<p>From 5.34.01 enabled support for: asimage, astiff, builtin_afterimage, builtin_lzma, cintex, explicitlink, fftw3, fitsio, gviz, genvector, krb5, ldap, mathmore, memstat, minuit2, mysql, opengl, python, reflex, roofit, shadowpw, shared, ssl, tmva, unuran, x11, xft, xml.</p>
+<hr>
+<p><strong style="color:red;"><span class="caps">HELP</span>: I&#8217;m searching for <em><span class="caps">TESTERS</span></em> of the latest builds of root. Are you interested? Comment here posting you e-mail address, I will contact you directly.</strong></p>
+<hr>
+<p><em>do you like it? do you hate me? it simply worked?</em><br />
+<strong><span class="caps">PLEASE</span>, <span class="caps">LEAVE</span> A <span class="caps">COMMENT</span>!</strong></p></div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">davrandom</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-05-29T00:00:00+02:00" pubdate data-updated="true"></time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/analysis/'>analysis</a>, <a class='category' href='/blog/categories/data/'>data</a>, <a class='category' href='/blog/categories/en/'>en</a>, <a class='category' href='/blog/categories/science/'>science</a>, <a class='category' href='/blog/categories/software/'>software</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://davrandom.github.io/blog/2013/05/29/root-packages-for-debian-and-ubuntu/" data-via="" data-counturl="http://davrandom.github.io/blog/2013/05/29/root-packages-for-debian-and-ubuntu/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/03/05/brochure-ubuntu-phone-and-tablets/" title="Previous Post: Brochure Ubuntu Phone and Tablets">&laquo; Brochure Ubuntu Phone and Tablets</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2013/06/22/texmaker-can-t-find-dictionary/" title="Next Post: Texmaker can't find dictionary">Texmaker can't find dictionary &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/12/26/checking-jekyll-build/">Check Jekyll Builds</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/26/trips-viaggi/">Trips - Viaggi</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/26/about-me/">About Me</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/25/quando-vogliono-aprirti/">Quando Vogliono Aprirti</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/23/brasile-e-turchia/">Brasile E Turchia</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - davrandom -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

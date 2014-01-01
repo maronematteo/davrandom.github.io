@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Women | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/women/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Ada Initiative]]></title>
+    <link href="http://davrandom.github.io/blog/2012/01/27/the-ada-initiative/"/>
+    <updated>2012-01-27T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/01/27/the-ada-initiative</id>
+    <content type="html"><![CDATA[<p>&ldquo;Supporting women in open technology and culture&rdquo;:<a href="http://adainitiative.org/">http://adainitiative.org/</a></p>
+
+<p>quoting from &ldquo;here&rdquo;:<a href="http://adainitiative.org/what-we-do/">http://adainitiative.org/what-we-do/</a>
+We work to increase the participation of women in open technology and culture through education: raising awareness, writing simple HOWTO guides, teaching workshops for both men and women, and helping women learn concrete skills. All of our work is free of charge and freely reusable under Creative Commons licenses. We are entirely funded through donations.
+&ldquo;Donate!&rdquo;:<a href="https://donate.adainitiative.org/civicrm/contribute/transact?reset=1&amp;id=1">https://donate.adainitiative.org/civicrm/contribute/transact?reset=1&amp;id=1</a></p>
+
+<p>!<a href="http://files.adainitiative.org/cache/support-logo-rounded.png!:https://donate.adainitiative.org/civicrm/contribute/transact?reset=1&amp;id=1">http://files.adainitiative.org/cache/support-logo-rounded.png!:https://donate.adainitiative.org/civicrm/contribute/transact?reset=1&amp;id=1</a></p>
+]]></content>
+  </entry>
+  
+</feed>

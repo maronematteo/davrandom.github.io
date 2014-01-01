@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Torvalds | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/torvalds/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Linus Torvalds Received the Millennium Technology Prize]]></title>
+    <link href="http://davrandom.github.io/blog/2012/04/22/linus-torvalds-received-the-millennium-technology-prize/"/>
+    <updated>2012-04-22T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/04/22/linus-torvalds-received-the-millennium-technology-prize</id>
+    <content type="html"><![CDATA[<p>Quoting from &ldquo;TechCrunch:&rdquo;:<a href="http://techcrunch.com/2012/04/19/an-interview-with-millenium-technology-prize-finalist-linus-torvalds/">http://techcrunch.com/2012/04/19/an-interview-with-millenium-technology-prize-finalist-linus-torvalds/</a></p>
+
+<p><cite> The Millenium Technology Prize, awarded every two years, is a Finnish award designed &ldquo;to improve the quality of life and to promote sustainable development-oriented research, development and innovation.&rdquo; Sir Tim Berners-Lee won the prize in 2004. The finalists this year are Dr. Shinya Yamanaka, who has been contributing to the area of stem cell research, and Linux creator Linus Torvalds. The 2012 Grand Prize winner will be announced on June 13 in Helsinki, Finland. </cite></p>
+
+<p>From the <em>press release</em>:</p>
+
+<p><cite> In recognition of his creation of a new open source operating system kernel for computers leading to the widely used Linux operating system. The free availability of Linux on the Web swiftly caused a chain-reaction leading to further development and fine-tuning worth the equivalent of 73,000 man-years. Today millions use computers, smartphones and digital video recorders like Tivo run on Linux. Linus Torvalds’ achievements have had a great impact on shared software development, networking and the openness of the web, making it accessible for millions, if not billions. </cite></p>
+
+<p>Other sources:
+&ldquo;TechCrunch&rdquo;:<a href="http://techcrunch.com/2012/04/19/an-interview-with-millenium-technology-prize-finalist-linus-torvalds/">http://techcrunch.com/2012/04/19/an-interview-with-millenium-technology-prize-finalist-linus-torvalds/</a>
+&ldquo;The Linux Foundation communication&rdquo;:<a href="http://www.linuxfoundation.org/news-media/announcements/2012/04/linux-creator-linus-torvalds-receives-one-world%25E2%2580%2599s-highest-technolog">http://www.linuxfoundation.org/news-media/announcements/2012/04/linux-creator-linus-torvalds-receives-one-world%25E2%2580%2599s-highest-technolog</a></p>
+]]></content>
+  </entry>
+  
+</feed>

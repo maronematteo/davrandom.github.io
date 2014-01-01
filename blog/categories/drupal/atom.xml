@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Drupal | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/drupal/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Embed PDFs in Drupal]]></title>
+    <link href="http://davrandom.github.io/blog/2012/04/05/embed-pdfs-in-drupal/"/>
+    <updated>2012-04-05T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/04/05/embed-pdfs-in-drupal</id>
+    <content type="html"><![CDATA[<p>(preamble: I do many things over the web every day, search for solutions, find solutions, implement solutions&hellip; then I forget everything. So some posts like this are just a collection of things for future memory)</p>
+
+<p>I am developing a website with Drupal and the client asked me if it is possible to embed a PDF viewer in a Drupal node (ok the question was not <em>that</em> precise &hellip;). I always answer &ldquo;everything is possible&hellip; we have to understand if you need that!&rdquo; &hellip; but this is another story.</p>
+
+<p>So my problem is almost the one described &ldquo;here.&rdquo;:<a href="http://drupal.org/node/154009">http://drupal.org/node/154009</a>
+There are several solutions (right now I have tried none of them), depending on the Drupal version you are using. For Drupal 7 there is a &ldquo;straightforward solution,&rdquo;:<a href="http://drupal.org/project/pdf_reader">http://drupal.org/project/pdf_reader</a> while for Drupal 6 is not so easy&hellip; I will talk then about Drupal 6.</p>
+
+<p>One possible solution is to use &ldquo;SWF tools&rdquo;:<a href="http://drupal.org/project/swftools">http://drupal.org/project/swftools</a> together with &ldquo;FlexPaper.&rdquo;:<a href="http://flexpaper.devaldi.com/docs.htm">http://flexpaper.devaldi.com/docs.htm</a> The trick is to &ldquo;convert&rdquo; the pdf to a swf via FlexPaper and then use &lsquo;SWF tools&rsquo; module to display the swf produced by FlexPaper. This is not really easy to implement inside Drupal (&ldquo;see this comment&rdquo;:<a href="http://drupal.org/node/154009#comment-4356032">http://drupal.org/node/154009#comment-4356032</a> that redirects to this &ldquo;issue for swf tools&rdquo;:<a href="http://drupal.org/node/759198">http://drupal.org/node/759198</a>).</p>
+
+<p>Another possible solution is the &ldquo;fileviewer module&rdquo;:<a href="http://drupal.org/project/fileviewer">http://drupal.org/project/fileviewer</a> &hellip; that later became the &ldquo;PDF module&rdquo;:<a href="http://drupal.org/project/pdf_reader">http://drupal.org/project/pdf_reader</a> for Drupal 7. I really don&rsquo;t know if it works on Drupal 6&hellip; I will try the fileviewer module first, and then give a try to the fexpaper+swf tools.</p>
+
+<p>HTH
+d</p>
+]]></content>
+  </entry>
+  
+</feed>

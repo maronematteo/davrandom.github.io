@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: It | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/it/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Trips - Viaggi]]></title>
+    <link href="http://davrandom.github.io/blog/2013/06/26/trips-viaggi/"/>
+    <updated>2013-06-26T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2013/06/26/trips-viaggi</id>
+    <content type="html"><![CDATA[<p>In progress&hellip;</p>
+
+<p>h1. >1000 km</p>
+
+<p>h2. Trieste &ndash; Dubrovnik &ndash; Trieste</p>
+
+<p>h4. Summer 2011 &ndash; 1700 km</p>
+
+<p>With Superben.</p>
+
+<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?saddr=Trieste,+Italy&amp;daddr=45.5243667,13.6522412+to:45.4088203,13.5322851+to:45.1932557,13.6017411+to:45.1123217,13.7674605+to:45.1576606,14.2146223+to:44.9765348,14.736147+to:44.5139872,15.0950357+to:44.1125685,15.2366996+to:43.8355181,15.6411425+to:43.5704516,15.9448679+to:43.5182743,16.4473473+to:43.2236472,17.1098556+to:Dubrovnik,+Croatia+to:Mostar,+Federacija+Bosne+i+Hercegovine,+Bosnia+and+Herzegovina+to:44.4328145,15.2018608+to:45.2991937,14.5339767+to:45.3397576,14.3903729+to:45.7706947,14.2010647+to:Trieste,+Italy&amp;geocode=FX-OuAIdNDzSACkz9e3kBmt7RzFQK93UhCRqZg%3BFY6ltgIdEVHQACmf8dpIlmV7RzEQpP3kuOESkg%3BFTTitAIdfXzOACmNrQo1U317RzG40T4joK90YA%3BFSeYsQIdzYvPACnhJ4srRpZ8RzEd25wzI75xrw%3BFQFcsAIdJBPSAClfrNfJt7l8RzHsHqJYwxe8Dg%3BFRwNsQId3uXYAClj4tZQ909jRzFTqeNb0Wkn2g%3BFZZJrgIdE9vgACnF5UtffHVjRzFR4KNrGYtKwg%3BFcM6pwId-1TmACmbFo8V9zFiRzHCmv80A04c6g%3BFbgaoQIdW37oAClptPuEY_phRzEV7YlUNsDBdg%3BFX7gnAIdNqruACmD_PhPgtE0EzEldBjk5r5ksQ%3BFRPVmAIdo0zzACnV3D-Jcxg1EzEnm5lIhX24TQ%3BFUIJmAIdc_f6ACn5nXM7DF41EzHJLLFmweDqGA%3BFV-KkwIdXxMFASnneRL8hPpKEzHuvAEYTzdqOg%3BFSnMigIdVxkUASl96DUIootLEzEA1SuGUK0ABA%3BFcFZlQIdEs0PASmpQGM7pENLEzFafOPUsjJPAQ%3BFa79pQIdRPbnACn3uVrtxCdiRzFTHNI9NafiBQ%3BFfk1swIdWMXdACmJRg2tvp9kRzHXzwUQLOb_Ew%3BFW3UswIdZJTbAClPfN343aZkRzE_la1hld9JYw%3BFcZnugId6LDYACkPKGRT6DF7RzEfmZxSnMg25A%3BFX-OuAIdNDzSACkz9e3kBmt7RzFQK93UhCRqZg&amp;sll=45.595783,14.355011&amp;sspn=0.682249,1.494141&amp;via=1,2,3,4,5,6,7,8,9,10,11,12,15,16,17,18&amp;hl=en&amp;ie=UTF8&amp;t=h&amp;ll=44.200829,15.916362&amp;spn=3.141868,4.775296&amp;output=embed"></iframe>
+
+
+<br /><small>View <a href="https://maps.google.com/maps?saddr=Trieste,+Italy&amp;daddr=45.5243667,13.6522412+to:45.4088203,13.5322851+to:45.1932557,13.6017411+to:45.1123217,13.7674605+to:45.1576606,14.2146223+to:44.9765348,14.736147+to:44.5139872,15.0950357+to:44.1125685,15.2366996+to:43.8355181,15.6411425+to:43.5704516,15.9448679+to:43.5182743,16.4473473+to:43.2236472,17.1098556+to:Dubrovnik,+Croatia+to:Mostar,+Federacija+Bosne+i+Hercegovine,+Bosnia+and+Herzegovina+to:44.4328145,15.2018608+to:45.2991937,14.5339767+to:45.3397576,14.3903729+to:45.7706947,14.2010647+to:Trieste,+Italy&amp;geocode=FX-OuAIdNDzSACkz9e3kBmt7RzFQK93UhCRqZg%3BFY6ltgIdEVHQACmf8dpIlmV7RzEQpP3kuOESkg%3BFTTitAIdfXzOACmNrQo1U317RzG40T4joK90YA%3BFSeYsQIdzYvPACnhJ4srRpZ8RzEd25wzI75xrw%3BFQFcsAIdJBPSAClfrNfJt7l8RzHsHqJYwxe8Dg%3BFRwNsQId3uXYAClj4tZQ909jRzFTqeNb0Wkn2g%3BFZZJrgIdE9vgACnF5UtffHVjRzFR4KNrGYtKwg%3BFcM6pwId-1TmACmbFo8V9zFiRzHCmv80A04c6g%3BFbgaoQIdW37oAClptPuEY_phRzEV7YlUNsDBdg%3BFX7gnAIdNqruACmD_PhPgtE0EzEldBjk5r5ksQ%3BFRPVmAIdo0zzACnV3D-Jcxg1EzEnm5lIhX24TQ%3BFUIJmAIdc_f6ACn5nXM7DF41EzHJLLFmweDqGA%3BFV-KkwIdXxMFASnneRL8hPpKEzHuvAEYTzdqOg%3BFSnMigIdVxkUASl96DUIootLEzEA1SuGUK0ABA%3BFcFZlQIdEs0PASmpQGM7pENLEzFafOPUsjJPAQ%3BFa79pQIdRPbnACn3uVrtxCdiRzFTHNI9NafiBQ%3BFfk1swIdWMXdACmJRg2tvp9kRzHXzwUQLOb_Ew%3BFW3UswIdZJTbAClPfN343aZkRzE_la1hld9JYw%3BFcZnugId6LDYACkPKGRT6DF7RzEfmZxSnMg25A%3BFX-OuAIdNDzSACkz9e3kBmt7RzFQK93UhCRqZg&amp;sll=45.595783,14.355011&amp;sspn=0.682249,1.494141&amp;via=1,2,3,4,5,6,7,8,9,10,11,12,15,16,17,18&amp;hl=en&amp;ie=UTF8&amp;t=h&amp;ll=44.200829,15.916362&amp;spn=3.141868,4.775296&amp;source=embed" style="color:#0000FF;text-align:left">Rigolato Trieste</a> in a larger map</small>
+
+
+<p>h2. Old Europe</p>
+
+<p>h4. Summer 2012 &ndash; 4300 km</p>
+
+<p>Alone.
+&ldquo;Map&rdquo;:<a href="http://goo.gl/maps/Jim7">http://goo.gl/maps/Jim7</a></p>
+
+<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004c52abb6e80849b22a&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=50.176898,10.349121&amp;spn=9.68631,23.269043&amp;t=h&amp;output=embed"></iframe>
+
+
+<br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004c52abb6e80849b22a&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=50.176898,10.349121&amp;spn=9.68631,23.269043&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">trip-2012</a> in a larger map</small>
+
+
+<p>h2. Codroipo &ndash; Bellino &ndash; Colle dell'Agnello &ndash; Avignon &ndash; Barcelona</p>
+
+<p>h4. Summer 2012 &ndash; 1300 km</p>
+
+<p>Alone.
+&ldquo;Map&rdquo;:<a href="http://goo.gl/maps/xCvs4">http://goo.gl/maps/xCvs4</a></p>
+
+<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004dea3ddb63cf0a5896&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;t=h&amp;ll=43.675818,7.580566&amp;spn=8.849824,19.753418&amp;output=embed"></iframe>
+
+
+<br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004dea3ddb63cf0a5896&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;t=h&amp;ll=43.675818,7.580566&amp;spn=8.849824,19.753418&amp;source=embed" style="color:#0000FF;text-align:left">Trasloco 2012</a> in a larger map</small>
+
+
+<p>h1. &lt;1000 km</p>
+
+<p>h2. Rovigno</p>
+
+<p>h4. Easter 2012  ~250 km</p>
+
+<p>With M.</p>
+
+<p>h2. Lošinj</p>
+
+<p>h4. Summer 2012 ~500km</p>
+
+<p>With M.</p>
+
+<p>h1. One day shots</p>
+
+<p>h4. My first day in the Alps</p>
+
+<p>&ldquo;Resume&rdquo;:<a href="http://dsmv.blogspot.com.es/2011/06/giretto-moto-1-giugno-2011.html">http://dsmv.blogspot.com.es/2011/06/giretto-moto-1-giugno-2011.html</a>
+With Andrea M. and Rolando.
+&ldquo;Map&rdquo;:<a href="http://goo.gl/maps/RHeL5">http://goo.gl/maps/RHeL5</a></p>
+
+<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a4bd62e4f8b6e62d0&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.227353,12.950134&amp;spn=1.508669,1.683655&amp;t=h&amp;output=embed"></iframe>
+
+
+<br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a4bd62e4f8b6e62d0&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.227353,12.950134&amp;spn=1.508669,1.683655&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">1 giugno 2011</a> in a larger map</small>
+
+
+<p>h4. Slovenia border &ndash; Bohinj Lake</p>
+
+<p>With Elisa P.</p>
+
+<p>h4. Zoncolan</p>
+
+<p>With Mattia &ldquo;Map&rdquo;:<a href="http://goo.gl/maps/puwxW">http://goo.gl/maps/puwxW</a></p>
+
+<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a599d520f656ca49c&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;t=h&amp;ll=46.515592,12.926903&amp;spn=0.061581,0.13999&amp;output=embed"></iframe>
+
+
+<br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a599d520f656ca49c&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;t=h&amp;ll=46.515592,12.926903&amp;spn=0.061581,0.13999&amp;source=embed" style="color:#0000FF;text-align:left">giretto mattia</a> in a larger map</small>
+
+
+<p>h4. Barcis &ndash; Piancavallo</p>
+
+<p>With Superben and Marco F.</p>
+
+<p>h4. Cornino Lake</p>
+
+<p>With Family, Simone Eva e Manu.
+&ldquo;Map&rdquo;:<a href="http://goo.gl/maps/6Xdf4">http://goo.gl/maps/6Xdf4</a></p>
+
+<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004d41f1aec8ab5be917&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.061797,13.001633&amp;spn=0.365436,0.572662&amp;t=h&amp;output=embed"></iframe>
+
+
+<br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004d41f1aec8ab5be917&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.061797,13.001633&amp;spn=0.365436,0.572662&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">giro simo eva manu</a> in a larger map</small>
+
+
+<p>h4. Rigolato, Cividale, Attimis, Nimis, Faedis, Trieste</p>
+
+<p>&ldquo;Map&rdquo;:<a href="http://goo.gl/maps/3ZSxZ">http://goo.gl/maps/3ZSxZ</a></p>
+
+<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a5fa3f0679f2523c5&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.065084,13.336516&amp;spn=0.299025,0.245533&amp;t=h&amp;output=embed"></iframe>
+
+
+<br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a5fa3f0679f2523c5&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.065084,13.336516&amp;spn=0.299025,0.245533&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">Rigolato Trieste</a> in a larger map</small>
+
+
+<p>h1. Desired</p>
+
+<p>h2. FVG</p>
+
+<p>h4. Passo Monte Croce</p>
+
+<p>&ldquo;Map&rdquo;:<a href="http://goo.gl/maps/8bvrI">http://goo.gl/maps/8bvrI</a></p>
+
+<p>h4. Vajont and Monte Pelmo</p>
+
+<p>&ldquo;Map&rdquo;:<a href="http://goo.gl/maps/jAAln">http://goo.gl/maps/jAAln</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Quando Vogliono Aprirti]]></title>
+    <link href="http://davrandom.github.io/blog/2013/06/25/quando-vogliono-aprirti/"/>
+    <updated>2013-06-25T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2013/06/25/quando-vogliono-aprirti</id>
+    <content type="html"><![CDATA[<p>Questo è quello che succede quando vogliono aprirti.</p>
+
+<p>!<a href="http://scaini.org/site/images/39.png!:http://scaini.org/site/images/39.png">http://scaini.org/site/images/39.png!:http://scaini.org/site/images/39.png</a></p>
+
+<p>From Ukraine with love &lt;3</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brasile E Turchia]]></title>
+    <link href="http://davrandom.github.io/blog/2013/06/23/brasile-e-turchia/"/>
+    <updated>2013-06-23T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2013/06/23/brasile-e-turchia</id>
+    <content type="html"><![CDATA[<p>Io e i social network abbiamo un rapporto complicato.
+Non è necessario che io delinei le mie peregrinazioni nei vari servizi di condivisione sociale. Basta sapere che su Diaspora avevo trovato una comunità interessante. Ultimamente il mio tempo si è ulteriormente limitato e ho optato per dare una chance a Twitter.
+Non che sia diverso da Diaspora, ma il bacino d'utenza è decisamente più ampio e si può accedere a notizie e foto in tempo reale da ogni angolo del mondo.</p>
+
+<p>Vorrei condividere con voi due foto che ritraggono bene gli eventi di questi giorni.</p>
+
+<p>!<a href="https://pbs.twimg.com/media/BNYgu1uCQAAwTvL.jpg!:https://pbs.twimg.com/media/BNYgu1uCQAAwTvL.jpg">https://pbs.twimg.com/media/BNYgu1uCQAAwTvL.jpg!:https://pbs.twimg.com/media/BNYgu1uCQAAwTvL.jpg</a></p>
+
+<p>!<a href="https://pbs.twimg.com/media/BNbOwoSCUAAITij.jpg!:https://pbs.twimg.com/media/BNbOwoSCUAAITij.jpg">https://pbs.twimg.com/media/BNbOwoSCUAAITij.jpg!:https://pbs.twimg.com/media/BNbOwoSCUAAITij.jpg</a></p>
+
+<p>Che recita (mia trad. possibilmente erronea):
+&ldquo;Padre bandito R$ 915
+Madre puttana R$ 2000
+Figlio drogato R$ 1350
+<em>Lavoratore</em> R$ 678
+Non è solo per 20 cente$imi!&rdquo;</p>
+
+<p>(&ldquo;Non è solo per 20 cente$imi!&rdquo; si riferisce all'aumento del prezzo dei biglietti del trasporto pubblico)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brochure Ubuntu Phone and Tablets]]></title>
+    <link href="http://davrandom.github.io/blog/2013/03/05/brochure-ubuntu-phone-and-tablets/"/>
+    <updated>2013-03-05T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2013/03/05/brochure-ubuntu-phone-and-tablets</id>
+    <content type="html"><![CDATA[<p>Non so se sono già comparso in rete il materiale cartaceo che Canonical sta utilizzando per promuovere &mdash;tra OEMS e operatori&mdash; il suo SO per tablet e smartphones.
+La settimana scorsa qui a Barcellona c'è stato il &ldquo;Mobile World Congress&rdquo;:<a href="http://en.wikipedia.org/wiki/Mobile_World_Congress">http://en.wikipedia.org/wiki/Mobile_World_Congress</a> 2013 e sono riuscito a entrare in possesso di una copia delle brochure fornita da Canonical.</p>
+
+<p>p=. <em>Fronte e retro.</em></p>
+
+<p>p=. !<a href="http://scaini.org/site/images/26t.jpg?1362493988!:http://scaini.org/site/images/26.jpg">http://scaini.org/site/images/26t.jpg?1362493988!:http://scaini.org/site/images/26.jpg</a>
+!<a href="http://scaini.org/site/images/36t.jpg?1362494695!:http://scaini.org/site/images/36.jpg">http://scaini.org/site/images/36t.jpg?1362494695!:http://scaini.org/site/images/36.jpg</a></p>
+
+<p>p=. <em>Smartphone.</em></p>
+
+<p>p=. !<a href="http://scaini.org/site/images/27t.jpg?1362494057!:http://scaini.org/site/images/27.jpg">http://scaini.org/site/images/27t.jpg?1362494057!:http://scaini.org/site/images/27.jpg</a>
+!<a href="http://scaini.org/site/images/28t.jpg?1362494120!:http://scaini.org/site/images/28.jpg">http://scaini.org/site/images/28t.jpg?1362494120!:http://scaini.org/site/images/28.jpg</a></p>
+
+<p>p=. <em>Tablet.</em></p>
+
+<p>p=. !<a href="http://scaini.org/site/images/29t.jpg?1362494155!:http://scaini.org/site/images/29.jpg">http://scaini.org/site/images/29t.jpg?1362494155!:http://scaini.org/site/images/29.jpg</a>
+!<a href="http://scaini.org/site/images/30t.jpg?1362494191!:http://scaini.org/site/images/30.jpg">http://scaini.org/site/images/30t.jpg?1362494191!:http://scaini.org/site/images/30.jpg</a>
+!<a href="http://scaini.org/site/images/31t.jpg?1362494236!:http://scaini.org/site/images/31.jpg">http://scaini.org/site/images/31t.jpg?1362494236!:http://scaini.org/site/images/31.jpg</a>
+!<a href="http://scaini.org/site/images/32t.jpg?1362494372!:http://scaini.org/site/images/32.jpg">http://scaini.org/site/images/32t.jpg?1362494372!:http://scaini.org/site/images/32.jpg</a>
+!<a href="http://scaini.org/site/images/33t.jpg?1362494442!:http://scaini.org/site/images/33.jpg">http://scaini.org/site/images/33t.jpg?1362494442!:http://scaini.org/site/images/33.jpg</a>
+!<a href="http://scaini.org/site/images/34t.jpg?1362494508!:http://scaini.org/site/images/34.jpg">http://scaini.org/site/images/34t.jpg?1362494508!:http://scaini.org/site/images/34.jpg</a>
+!<a href="http://scaini.org/site/images/35t.jpg?1362494637!:http://scaini.org/site/images/35.jpg">http://scaini.org/site/images/35t.jpg?1362494637!:http://scaini.org/site/images/35.jpg</a></p>
+
+<p>Io li trovo piuttosto ben fatti.
+Nel frattempo sono uscite le `immagini' di ubuntu per Nexus 4, 7 e 10 &hellip; attendo speranzoso di poterlo provare anche sul mio nuovo (davvero!) HTC Desire Z (con cui ho fatto queste foto &ldquo;e non solo&rdquo;:<a href="http://www.flickr.com/photos/davrandom/sets/72157632877238105/">http://www.flickr.com/photos/davrandom/sets/72157632877238105/</a> ).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pissed Off]]></title>
+    <link href="http://davrandom.github.io/blog/2013/01/31/pissed-off/"/>
+    <updated>2013-01-31T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2013/01/31/pissed-off</id>
+    <content type="html"><![CDATA[<p>In giornate come oggi, in cui essenzialmente non funziona un cazzo, le relazioni lavorative sono complicate mi rifugio ad ascoltare Peter Gabriel. Non so perché, ma dopo sorrido. Forse perché con la sua voce roca ti dice che c'è comunque qualcosa di bello (a parte lui) per cui stasera varrà la pena prendere la bici e fare sei chilometri in salita e poi andare in palestra. Nonostante Mathematica mi dia dei risultati incomprensibili, malgrado gli atteggiamente supponenti di alcuni colleghi, in barba alla crisi.</p>
+
+<p>&ldquo;Shhhh listen!&rdquo;:<a href="http://youtu.be/UfBgAq0sQ1s?t=25m42s">http://youtu.be/UfBgAq0sQ1s?t=25m42s</a></p>
+]]></content>
+  </entry>
+  
+</feed>

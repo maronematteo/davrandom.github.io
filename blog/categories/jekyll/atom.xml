@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Jekyll | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/jekyll/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Check Jekyll Builds]]></title>
+    <link href="http://davrandom.github.io/blog/2013/12/26/checking-jekyll-build/"/>
+    <updated>2013-12-26T23:40:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2013/12/26/checking-jekyll-build</id>
+    <content type="html"><![CDATA[<h1>How to check if jekyll builds</h1>
+
+<p>How to check if jekyll builds before pushing to your github pages.</p>
+
+<p><code>jekyll build --safe --trace</code></p>
+]]></content>
+  </entry>
+  
+</feed>

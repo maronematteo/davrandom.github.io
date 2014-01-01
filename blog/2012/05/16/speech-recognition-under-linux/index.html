@@ -1,0 +1,240 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Speech Recognition Under Linux - /dav/random</title>
+  <meta name="author" content="davrandom">
+
+  
+  <meta name="description" content="(preamble: I do many things over the web every day, search for solutions, find solutions, implement solutions&#8230; then I forget everything. So &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://davrandom.github.io/blog/2012/05/16/speech-recognition-under-linux">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="/dav/random" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">/dav/random</a></h1>
+  
+    <h2>Some stuff of mine</h2>
+  
+		<a class="link-it" href="/blog/categories/it/">it</a>
+                <a class="link-en" href="/blog/categories/en/">en</a>
+                <a class="link-es" href="/blog/categories/es/">es</a>
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:davrandom.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Speech Recognition Under Linux</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-05-16T00:00:00+02:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+
+  </header>
+
+
+<div class="entry-content"><p>(preamble: I do many things over the web every day, search for solutions, find solutions, implement solutions&#8230; then I forget everything. So some posts like this are just a collection of things for future memory)</p>
+<p>I was searching for something like Dragon Naturally Speaking under Linux&#8230; well this doesn&#8217;t seem to exist yet (apart from running <span class="caps">DNS</span> under wine). If you have different information please comment.</p>
+<p>I found this <a href="https://wiki.archlinux.org/index.php/Speech_Recognition#Speech_Recognition">nice article on Archlinux wiki</a> with a nice list divided by types of speech recognition (copying from there):</p>
+<ul>
+	<li><strong>Text-To-Speech</strong> As it sounds, Text-To-Speech (or <span class="caps">TTS</span>) will manipulate a string of text into an audio clip. There are several programs available that perform <span class="caps">TTS</span>, some of which are command-line based (ideal for scripting) and others which provide a handy <span class="caps">GUI</span>.</li>
+</ul>
+<ul>
+	<li><strong>Simple Voice Control/Commands</strong> This is the most basic form of Speech-To-Text application. These are designed to recognize a small number of specific, typically one-word commands and then perform an action. This is often used as an alternative to an application launcher, allowing the user for instance to say the word &#8220;firefox&#8221; and have his OS open a new browser window.</li>
+</ul>
+<ul>
+	<li><strong>Full dictation/recognition</strong> Full dictation/recognition software allows the user to read full sentences or paragraphs and translates that data into text on the fly. This could be used, for instance, to dictate an entire letter into the window of an email client. In some cases, these types of applications need to be trained to your voice and can improve in accuracy the more they are used.</li>
+</ul>
+<p>I am mostly interested in the last one &#8230; from what I can understand none of them is yet completely working (in the sense of <span class="caps">DNS</span> does). <br />
+I downloaded <a href="http://simon-listens.org/">Simon</a> but not tried yet. From what I can see <a href="http://simon-listens.blogspot.it/2012/05/simon-usability.html">here</a> they&#8217;re at 0.3.80 release while <a href="http://sourceforge.net/projects/speech2text/">here</a> you can download the 0.3.0 version&#8230; guess some svn/git compiling is required to obtain the most recent version.</p>
+<p>Quoting from <a href="http://en.wikipedia.org/wiki/Speech_recognition_in_Linux">here:</a><br />
+&#8220;Recently, there has been a push to get a high-quality native <span class="caps">GNU</span>/Linux speech recognition engine developed. As a result, numerous projects dedicated to creating <span class="caps">GNU</span>/Linux speech recognition solutions were established. One major hurdle is the compilation of a speech corpus to enable production of acoustic models. In response, VoxForge, which aims to collect transcribed speech for the use with free and open-source speech recognition engines under the <span class="caps">GPL</span> license, was set up.&#8221;<br />
+<em>(This wiki article is far from perfect&#8230; but these few lines are ok)</em></p>
+<p>I gave a look also to <a href="http://www.voxforge.org/">VoxForge</a> and it&#8217;s a project to <em>collect</em> transcribed speech, to build up open source &#8220;speech libraries&#8221; (<a href="http://www.voxforge.org/home/docs/faq/faq/what-is-a-speech-corpus-or-speech-corpora">speech corpus</a>). So this is only a piece of what I&#8217;m searching for, but it&#8217;s important to mention that <strong>everyone can help this project simply reading some text</strong>&#8230; <a href="http://www.voxforge.org/home/read">checkout here.</a></p>
+<p><strong>Has anyone there an experience with <span class="caps">OSS</span> software doing full dictation/recognition?</strong></p></div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">davrandom</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-05-16T00:00:00+02:00" pubdate data-updated="true"></time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/applications/'>applications</a>, <a class='category' href='/blog/categories/en/'>en</a>, <a class='category' href='/blog/categories/linux/'>linux</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://davrandom.github.io/blog/2012/05/16/speech-recognition-under-linux/" data-via="" data-counturl="http://davrandom.github.io/blog/2012/05/16/speech-recognition-under-linux/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/05/15/tizen-developer-conference-and-their-prototype-phone/" title="Previous Post: Tizen developer conference and their prototype phone">&laquo; Tizen developer conference and their prototype phone</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2012/06/13/viaggio-plan/" title="Next Post: Viaggio Plan">Viaggio Plan &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/12/26/checking-jekyll-build/">Check Jekyll Builds</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/26/trips-viaggi/">Trips - Viaggi</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/26/about-me/">About Me</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/25/quando-vogliono-aprirti/">Quando Vogliono Aprirti</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/23/brasile-e-turchia/">Brasile E Turchia</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - davrandom -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

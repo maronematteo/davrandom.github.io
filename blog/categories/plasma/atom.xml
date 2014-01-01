@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Plasma | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/plasma/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Plasma Active Reveals Its 200$ Tablet]]></title>
+    <link href="http://davrandom.github.io/blog/2012/01/30/plasma-active-reveals-its-200-tablet/"/>
+    <updated>2012-01-30T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/01/30/plasma-active-reveals-its-200-tablet</id>
+    <content type="html"><![CDATA[<p>!<a href="http://plasma.kde.org/media/tablet.jpg!:http://aseigo.blogspot.com/2012/01/reveal.html">http://plasma.kde.org/media/tablet.jpg!:http://aseigo.blogspot.com/2012/01/reveal.html</a></p>
+
+<p>&ldquo;Slashdot&rdquo;:<a href="http://hardware.slashdot.org/story/12/01/29/1422244/new-spark-tablet-to-come-loaded-with-kdes-active-plasma-interface">http://hardware.slashdot.org/story/12/01/29/1422244/new-spark-tablet-to-come-loaded-with-kdes-active-plasma-interface</a> quotes &ldquo;Aaron Seigo blog&rdquo;:<a href="http://aseigo.blogspot.com/2012/01/reveal.html">http://aseigo.blogspot.com/2012/01/reveal.html</a> which reveals that soon will be available the first (cheap) tablet named <em>Spark</em> with &ldquo;Plasma Active&rdquo;:<a href="http://plasma-active.org/">http://plasma-active.org/</a> pre-installed.</p>
+]]></content>
+  </entry>
+  
+</feed>
