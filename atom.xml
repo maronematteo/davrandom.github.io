@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[/dav/random]]></title>
+  <link href="http://davrandom.github.io/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Check Jekyll Builds]]></title>
+    <link href="http://davrandom.github.io/blog/2013/12/26/checking-jekyll-build/"/>
+    <updated>2013-12-26T23:40:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2013/12/26/checking-jekyll-build</id>
+    <content type="html"><![CDATA[<h1>How to check if jekyll builds</h1>
+
+<p>How to check if jekyll builds before pushing to your github pages.</p>
+
+<p><code>jekyll build --safe --trace</code></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Trips - Viaggi]]></title>
+    <link href="http://davrandom.github.io/blog/2013/06/26/trips-viaggi/"/>
+    <updated>2013-06-26T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2013/06/26/trips-viaggi</id>
+    <content type="html"><![CDATA[<p>In progress&#8230;</p>
+<h1>&gt;1000 km</h1>
+<h2>Trieste &#8211; Dubrovnik &#8211; Trieste</h2>
+<h4>Summer 2011 &#8211; 1700 km</h4>
+<p>With Superben.</p>
+<p><iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?saddr=Trieste,+Italy&amp;daddr=45.5243667,13.6522412+to:45.4088203,13.5322851+to:45.1932557,13.6017411+to:45.1123217,13.7674605+to:45.1576606,14.2146223+to:44.9765348,14.736147+to:44.5139872,15.0950357+to:44.1125685,15.2366996+to:43.8355181,15.6411425+to:43.5704516,15.9448679+to:43.5182743,16.4473473+to:43.2236472,17.1098556+to:Dubrovnik,+Croatia+to:Mostar,+Federacija+Bosne+i+Hercegovine,+Bosnia+and+Herzegovina+to:44.4328145,15.2018608+to:45.2991937,14.5339767+to:45.3397576,14.3903729+to:45.7706947,14.2010647+to:Trieste,+Italy&amp;geocode=FX-OuAIdNDzSACkz9e3kBmt7RzFQK93UhCRqZg%3BFY6ltgIdEVHQACmf8dpIlmV7RzEQpP3kuOESkg%3BFTTitAIdfXzOACmNrQo1U317RzG40T4joK90YA%3BFSeYsQIdzYvPACnhJ4srRpZ8RzEd25wzI75xrw%3BFQFcsAIdJBPSAClfrNfJt7l8RzHsHqJYwxe8Dg%3BFRwNsQId3uXYAClj4tZQ909jRzFTqeNb0Wkn2g%3BFZZJrgIdE9vgACnF5UtffHVjRzFR4KNrGYtKwg%3BFcM6pwId-1TmACmbFo8V9zFiRzHCmv80A04c6g%3BFbgaoQIdW37oAClptPuEY_phRzEV7YlUNsDBdg%3BFX7gnAIdNqruACmD_PhPgtE0EzEldBjk5r5ksQ%3BFRPVmAIdo0zzACnV3D-Jcxg1EzEnm5lIhX24TQ%3BFUIJmAIdc_f6ACn5nXM7DF41EzHJLLFmweDqGA%3BFV-KkwIdXxMFASnneRL8hPpKEzHuvAEYTzdqOg%3BFSnMigIdVxkUASl96DUIootLEzEA1SuGUK0ABA%3BFcFZlQIdEs0PASmpQGM7pENLEzFafOPUsjJPAQ%3BFa79pQIdRPbnACn3uVrtxCdiRzFTHNI9NafiBQ%3BFfk1swIdWMXdACmJRg2tvp9kRzHXzwUQLOb_Ew%3BFW3UswIdZJTbAClPfN343aZkRzE_la1hld9JYw%3BFcZnugId6LDYACkPKGRT6DF7RzEfmZxSnMg25A%3BFX-OuAIdNDzSACkz9e3kBmt7RzFQK93UhCRqZg&amp;sll=45.595783,14.355011&amp;sspn=0.682249,1.494141&amp;via=1,2,3,4,5,6,7,8,9,10,11,12,15,16,17,18&amp;hl=en&amp;ie=UTF8&amp;t=h&amp;ll=44.200829,15.916362&amp;spn=3.141868,4.775296&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps?saddr=Trieste,+Italy&amp;daddr=45.5243667,13.6522412+to:45.4088203,13.5322851+to:45.1932557,13.6017411+to:45.1123217,13.7674605+to:45.1576606,14.2146223+to:44.9765348,14.736147+to:44.5139872,15.0950357+to:44.1125685,15.2366996+to:43.8355181,15.6411425+to:43.5704516,15.9448679+to:43.5182743,16.4473473+to:43.2236472,17.1098556+to:Dubrovnik,+Croatia+to:Mostar,+Federacija+Bosne+i+Hercegovine,+Bosnia+and+Herzegovina+to:44.4328145,15.2018608+to:45.2991937,14.5339767+to:45.3397576,14.3903729+to:45.7706947,14.2010647+to:Trieste,+Italy&amp;geocode=FX-OuAIdNDzSACkz9e3kBmt7RzFQK93UhCRqZg%3BFY6ltgIdEVHQACmf8dpIlmV7RzEQpP3kuOESkg%3BFTTitAIdfXzOACmNrQo1U317RzG40T4joK90YA%3BFSeYsQIdzYvPACnhJ4srRpZ8RzEd25wzI75xrw%3BFQFcsAIdJBPSAClfrNfJt7l8RzHsHqJYwxe8Dg%3BFRwNsQId3uXYAClj4tZQ909jRzFTqeNb0Wkn2g%3BFZZJrgIdE9vgACnF5UtffHVjRzFR4KNrGYtKwg%3BFcM6pwId-1TmACmbFo8V9zFiRzHCmv80A04c6g%3BFbgaoQIdW37oAClptPuEY_phRzEV7YlUNsDBdg%3BFX7gnAIdNqruACmD_PhPgtE0EzEldBjk5r5ksQ%3BFRPVmAIdo0zzACnV3D-Jcxg1EzEnm5lIhX24TQ%3BFUIJmAIdc_f6ACn5nXM7DF41EzHJLLFmweDqGA%3BFV-KkwIdXxMFASnneRL8hPpKEzHuvAEYTzdqOg%3BFSnMigIdVxkUASl96DUIootLEzEA1SuGUK0ABA%3BFcFZlQIdEs0PASmpQGM7pENLEzFafOPUsjJPAQ%3BFa79pQIdRPbnACn3uVrtxCdiRzFTHNI9NafiBQ%3BFfk1swIdWMXdACmJRg2tvp9kRzHXzwUQLOb_Ew%3BFW3UswIdZJTbAClPfN343aZkRzE_la1hld9JYw%3BFcZnugId6LDYACkPKGRT6DF7RzEfmZxSnMg25A%3BFX-OuAIdNDzSACkz9e3kBmt7RzFQK93UhCRqZg&amp;sll=45.595783,14.355011&amp;sspn=0.682249,1.494141&amp;via=1,2,3,4,5,6,7,8,9,10,11,12,15,16,17,18&amp;hl=en&amp;ie=UTF8&amp;t=h&amp;ll=44.200829,15.916362&amp;spn=3.141868,4.775296&amp;source=embed" style="color:#0000FF;text-align:left">Rigolato Trieste</a> in a larger map</small></p>
+<h2>Old Europe</h2>
+<h4>Summer 2012 &#8211; 4300 km</h4>
+<p>Alone.<br />
+<a href="http://goo.gl/maps/Jim7">Map</a></p>
+<p><iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004c52abb6e80849b22a&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=50.176898,10.349121&amp;spn=9.68631,23.269043&amp;t=h&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004c52abb6e80849b22a&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=50.176898,10.349121&amp;spn=9.68631,23.269043&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">trip-2012</a> in a larger map</small></p>
+<h2>Codroipo &#8211; Bellino &#8211; Colle dell&#8217;Agnello &#8211; Avignon &#8211; Barcelona</h2>
+<h4>Summer 2012 &#8211; 1300 km</h4>
+<p>Alone.<br />
+<a href="http://goo.gl/maps/xCvs4">Map</a></p>
+<p><iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004dea3ddb63cf0a5896&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;t=h&amp;ll=43.675818,7.580566&amp;spn=8.849824,19.753418&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004dea3ddb63cf0a5896&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;t=h&amp;ll=43.675818,7.580566&amp;spn=8.849824,19.753418&amp;source=embed" style="color:#0000FF;text-align:left">Trasloco 2012</a> in a larger map</small></p>
+<h1>&lt;1000 km</h1>
+<h2>Rovigno</h2>
+<h4>Easter 2012  ~250 km</h4>
+<p>With M.</p>
+<h2>Lošinj</h2>
+<h4>Summer 2012 ~500km</h4>
+<p>With M.</p>
+<h1>One day shots</h1>
+<h4>My first day in the Alps</h4>
+<p><a href="http://dsmv.blogspot.com.es/2011/06/giretto-moto-1-giugno-2011.html">Resume</a><br />
+With Andrea M. and Rolando.<br />
+<a href="http://goo.gl/maps/RHeL5">Map</a></p>
+<p><iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a4bd62e4f8b6e62d0&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.227353,12.950134&amp;spn=1.508669,1.683655&amp;t=h&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a4bd62e4f8b6e62d0&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.227353,12.950134&amp;spn=1.508669,1.683655&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">1 giugno 2011</a> in a larger map</small></p>
+<h4>Slovenia border &#8211; Bohinj Lake</h4>
+<p>With Elisa P.</p>
+<h4>Zoncolan</h4>
+<p>With Mattia <a href="http://goo.gl/maps/puwxW">Map</a></p>
+<p><iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a599d520f656ca49c&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;t=h&amp;ll=46.515592,12.926903&amp;spn=0.061581,0.13999&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a599d520f656ca49c&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;t=h&amp;ll=46.515592,12.926903&amp;spn=0.061581,0.13999&amp;source=embed" style="color:#0000FF;text-align:left">giretto mattia</a> in a larger map</small></p>
+<h4>Barcis &#8211; Piancavallo</h4>
+<p>With Superben and Marco F.</p>
+<h4>Cornino Lake</h4>
+<p>With Family, Simone Eva e Manu.<br />
+<a href="http://goo.gl/maps/6Xdf4">Map</a></p>
+<p><iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004d41f1aec8ab5be917&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.061797,13.001633&amp;spn=0.365436,0.572662&amp;t=h&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004d41f1aec8ab5be917&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.061797,13.001633&amp;spn=0.365436,0.572662&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">giro simo eva manu</a> in a larger map</small></p>
+<h4>Rigolato, Cividale, Attimis, Nimis, Faedis, Trieste</h4>
+<p><a href="http://goo.gl/maps/3ZSxZ">Map</a></p>
+<p><iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a5fa3f0679f2523c5&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.065084,13.336516&amp;spn=0.299025,0.245533&amp;t=h&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msid=218212978834044717554.0004a5fa3f0679f2523c5&amp;msa=0&amp;dg=feature&amp;ie=UTF8&amp;ll=46.065084,13.336516&amp;spn=0.299025,0.245533&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">Rigolato Trieste</a> in a larger map</small></p>
+<h1>Desired</h1>
+<h2><span class="caps">FVG</span></h2>
+<h4>Passo Monte Croce</h4>
+<p><a href="http://goo.gl/maps/8bvrI">Map</a></p>
+<h4>Vajont and Monte Pelmo</h4>
+<p><a href="http://goo.gl/maps/jAAln">Map</a></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About Me]]></title>
+    <link href="http://davrandom.github.io/blog/2013/06/26/about-me/"/>
+    <updated>2013-06-26T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2013/06/26/about-me</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://scaini.org/site/images/18t.jpg?1351803829" alt="" /><br />
+picture by <a href="http://www.flickr.com/photos/superben155">Superben,</a> thanks!</p>
+<p>I&#8217;m <strong>interested</strong> in <em>open source, i.e. <span class="caps">GNU</span>/Linux, open hardware (openmoko, arduino, &#8230;), open mapping (openstreetmap),  &#8230; in music, acoustics, photography, motorbikes, traveling around, <span class="caps">DIY</span>, &#8230;</em></p>
+<p>I have a <a href="http://en.wikipedia.org/wiki/Master%27s_degree">M.Sc.</a> in <a href="http://en.wikipedia.org/wiki/Particle_physics">particle physics</a> from <a href="http://df.units.it/?q=en">University of Trieste (Italy).</a></p>
+<p>Now I&#8217;m enrolled at <a href="http://www.upf.edu/en/"><span class="caps">UPF</span></a> for a <a href="http://en.wikipedia.org/wiki/Doctor_of_Philosophy">Ph.D.</a> in <a href="http://www.upf.edu/dtic/en/">Information and Communication Technologies.</a> Meanwhile I work in a non-profit foundation called <a href="http://www.barcelonamedia.org/">Barcelona Media.</a></p>
+<hr>
+<p>This is not a newspaper, it&#8217;s a blog, free and open. If you want to collaborate (surrender or resist) just comment here&#8230; I will contact you directly.</p>
+<p>I am not responsible for reader&#8217;s comments.<br />
+<hr></p>
+<p>Documents:</p>
+<ul>
+	<li>My Master&#8217;s thesis <strong>`Study of the associated production of a Z boson and hadronic jets in proton-proton collisions at the <span class="caps">CMS</span> experiment&#8217;</strong> (<a href="http://www.infn.it/thesis/thesis_dettaglio.php?tid=5970">on <span class="caps">INFN</span> official website</a>)</li>
+	<li>My Bachelor&#8217;s thesis <strong>`Una tecnica di calibrazione con elettroni isolati per il calorimetro elettromagnetico di CMS&#8217;</strong> (<a href="http://www.infn.it/thesis/thesis_dettaglio.php?tid=2644">on <span class="caps">INFN</span> official website</a>) (<a href="http://scaini.org/site/file_download/12/tesi.pdf">or download from here</a>)</li>
+	<li><strong>`Layout Remapping Tool for Multichannel Audio Productions´</strong> <br />
+<em>Authors</em>: Schmele, Tim; García-Garzón, David; Sayin, Umut; Scaini, Davide; Arteaga, Daniel. <a href="http://www.aes.org/e-lib/browse.cfm?elib=16807">Published</a> in <span class="caps">AES</span> 134th Convention.</li>
+</ul>
+<p>Public Code:</p>
+<ul>
+	<li><span class="caps">ATM</span> my public code is very limited (for several reasons). In <a href="https://bitbucket.org/davrandom/misc_projects/src">this repository</a> I collect some files that I find useful (configuration files or nano-projects).<br />
+This might not be useful for other people, but after few times I forgot/lost code around, I simply decided that it&#8217;s better to publish it.</li>
+</ul>
+<p>Presentations:</p>
+<ul>
+	<li><span class="caps">TBD</span></li>
+</ul>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Quando Vogliono Aprirti]]></title>
+    <link href="http://davrandom.github.io/blog/2013/06/25/quando-vogliono-aprirti/"/>
+    <updated>2013-06-25T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2013/06/25/quando-vogliono-aprirti</id>
+    <content type="html"><![CDATA[<p>Questo è quello che succede quando vogliono aprirti.</p>
+<p><a href="http://scaini.org/site/images/39.png"><img src="http://scaini.org/site/images/39.png" alt="" /></a></p>
+<p>From Ukraine with love &lt;3</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brasile E Turchia]]></title>
+    <link href="http://davrandom.github.io/blog/2013/06/23/brasile-e-turchia/"/>
+    <updated>2013-06-23T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2013/06/23/brasile-e-turchia</id>
+    <content type="html"><![CDATA[<p>Io e i social network abbiamo un rapporto complicato.<br />
+Non è necessario che io delinei le mie peregrinazioni nei vari servizi di condivisione sociale. Basta sapere che su Diaspora avevo trovato una comunità interessante. Ultimamente il mio tempo si è ulteriormente limitato e ho optato per dare una chance a Twitter. <br />
+Non che sia diverso da Diaspora, ma il bacino d&#8217;utenza è decisamente più ampio e si può accedere a notizie e foto in tempo reale da ogni angolo del mondo.</p>
+<p>Vorrei condividere con voi due foto che ritraggono bene gli eventi di questi giorni.</p>
+<p><a href="https://pbs.twimg.com/media/BNYgu1uCQAAwTvL.jpg"><img src="https://pbs.twimg.com/media/BNYgu1uCQAAwTvL.jpg" alt="" /></a></p>
+<p><a href="https://pbs.twimg.com/media/BNbOwoSCUAAITij.jpg"><img src="https://pbs.twimg.com/media/BNbOwoSCUAAITij.jpg" alt="" /></a></p>
+<p>Che recita (mia trad. possibilmente erronea):<br />
+&#8220;Padre bandito R$ 915<br />
+Madre puttana R$ 2000<br />
+Figlio drogato R$ 1350<br />
+<strong>Lavoratore</strong> R$ 678<br />
+Non è solo per 20 cente$imi!&#8221;</p>
+<p>(&#8220;Non è solo per 20 cente$imi!&#8221; si riferisce all&#8217;aumento del prezzo dei biglietti del trasporto pubblico)</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Texmaker Can't Find Dictionary]]></title>
+    <link href="http://davrandom.github.io/blog/2013/06/22/texmaker-can-t-find-dictionary/"/>
+    <updated>2013-06-22T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2013/06/22/texmaker-can-t-find-dictionary</id>
+    <content type="html"><![CDATA[<p>Today I am <del>-desperately</del>- writing a report. I have time until midnight.<br />
+Obviously I have to work from home, with a different pc. And obviously I&#8217;m running into some missing pieces ;)</p>
+<p>First problem, Texmaker complains about missing dictionary.<br />
+Googling around I found two interesting pages:<br />
+<a href="http://copiancestral.wordpress.com/2012/02/13/texmaker-error-cant-open-the-dictionary/">Texmaker Error : Can’t open the dictionary</a> by <em>copiancestral</em><br />
+<a href="http://www.xm1math.net/texmaker/doc.html#SECTION03">Configuring the spell checker</a></p>
+<p>Carefully brewing the two I found my solution.</p>
+<h3>First: locate your dictionary .aff</h3>
+<p>(You need findutils installed)<br />
+So type in your terminal</p>
+<pre><code>locate *.aff</code></pre>
+<p>You should get a list of dictionaries like this (depending on your installation):</p>
+<pre><code>elijah@seldon:~$ locate *.aff
+/usr/share/hunspell/en_AU.aff
+/usr/share/hunspell/en_GB.aff
+/usr/share/hunspell/en_US.aff
+/usr/share/hunspell/en_ZA.aff
+/usr/share/hunspell/es.aff
+/usr/share/hunspell/it_IT.aff
+/usr/share/myspell/dicts/en-GB.aff
+/usr/share/myspell/dicts/en_GB.aff
+/usr/share/myspell/dicts/en_ZA.aff
+/usr/share/myspell/dicts/it-IT.aff
+/usr/share/myspell/dicts/it_IT.aff</code></pre>
+<p>If not you have to install the desired myspell dictionary with your preferred package manager.</p>
+<h3>Then: tell Texmaker where to find the correct .aff file</h3>
+<p>Open <em>Configure Texmaker</em> &gt; <em>Editor</em> &gt; <em>Spelling dictionary</em> and put the path to the desired <strong>.aff file</strong>.<br />
+It should work now.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ROOT Packages for Debian and Ubuntu]]></title>
+    <link href="http://davrandom.github.io/blog/2013/05/29/root-packages-for-debian-and-ubuntu/"/>
+    <updated>2013-05-29T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2013/05/29/root-packages-for-debian-and-ubuntu</id>
+    <content type="html"><![CDATA[<h2>What is <span class="caps">ROOT</span>?</h2>
+<p><a href="http://root.cern.ch"><span class="caps">ROOT</span></a> is a framwork for data analysis, written in C++ and developed by <a href="http://public.web.cern.ch/public/"><span class="caps">CERN</span>.</a></p>
+<h2>What are <em>you</em> doing then?</h2>
+<p>As you might have noticed the debian packages (debs) for <span class="caps">ROOT</span> in Debian and Ubuntu repositories are quite old (5.18). So what I am doing is to build a monolithic package of <span class="caps">ROOT</span>.</p>
+<h2>What are you <em><span class="caps">NOT</span></em> doing?</h2>
+<p>I&#8217;m not a <span class="caps">ROOT</span> developer, and I do not answer to <span class="caps">ROOT</span> related questions.</p>
+<h2>Some other details to know <span class="caps">BEFORE</span> download and installation</h2>
+<p>The enabled <span class="caps">ROOT</span> plugins are: minuit2 roofit unuran tmva (if you think you need some other, just write a comment here, I&#8217;ll provide).</p>
+<p><b>Older than 5.34.07</b> packages are going to be installed on /opt/root, to not conflict with Root package provided by Ubuntu repos.</p>
+<h2>Download</h2>
+<p>I provide two version of <span class="caps">ROOT</span> package, one compiled for <a href="http://sourceforge.net/projects/cernrootdebs/files/latest-recommended/">64 bits</a> and one for <a href="http://sourceforge.net/projects/cernrootdebs/files/32bits!/">32 bits</a> processors. <a href="http://sourceforge.net/projects/cernrootdebs/files">Here</a> you can find the two versions. <a href="https://sourceforge.net/projects/cernrootdebs/files/latest/download">The most up-to-date is the 64 bits release. Download!</a></p>
+<h2>Installation</h2>
+<p>You double click on the downloaded package and Debian or Ubuntu will prompt a window&#8230; just follow the usual instructions.</p>
+<h2>Have fun!</h2>
+<p><a href="http://sourceforge.net/donate/index.php?group_id=309830"><img src="http://images.sourceforge.net/images/project-support.jpg" width="88" height="32" border="0" alt="Support This Project" /> </a><br />
+If you like this packet and want to pay for my time, you are welcome ;) <br />
+(important note: I&#8217;m not connected to cern developers in any way. I&#8217;m not asking for money, this package is free!)</p>
+<p>If you have any doubt just ask (commenting down here or at sourceforge <a href="https://sourceforge.net/projects/cernrootdebs/forums/forum/1106773">here</a>)&#8230; if you need help with <span class="caps">ROOT</span>, read the manual :)</p>
+<hr>
+<p><em>just for the lazy ones:</em></p>
+<ul>
+	<li><a href="http://root.cern.ch/drupal/content/users-guide">user&#8217;s manual</a></li>
+	<li><a href="http://root.cern.ch/drupal/content/reference-guide">reference guide</a></li>
+	<li><a href="http://root.cern.ch/drupal/content/howtos">how-to&#8217;s</a></li>
+	<li><a href="http://root.cern.ch/phpBB3/"><span class="caps">ROOT</span> forum</a></li>
+</ul>
+<hr>
+<h1>for the skilled ones: <a href="http://sourceforge.net/projects/cernrootdebs/files/latest/download">direct link to the latest package.</a></h1>
+<hr>
+<h2>Details</h2>
+<p>From 5.34.01 enabled support for: asimage, astiff, builtin_afterimage, builtin_lzma, cintex, explicitlink, fftw3, fitsio, gviz, genvector, krb5, ldap, mathmore, memstat, minuit2, mysql, opengl, python, reflex, roofit, shadowpw, shared, ssl, tmva, unuran, x11, xft, xml.</p>
+<hr>
+<p><strong style="color:red;"><span class="caps">HELP</span>: I&#8217;m searching for <em><span class="caps">TESTERS</span></em> of the latest builds of root. Are you interested? Comment here posting you e-mail address, I will contact you directly.</strong></p>
+<hr>
+<p><em>do you like it? do you hate me? it simply worked?</em><br />
+<strong><span class="caps">PLEASE</span>, <span class="caps">LEAVE</span> A <span class="caps">COMMENT</span>!</strong></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brochure Ubuntu Phone and Tablets]]></title>
+    <link href="http://davrandom.github.io/blog/2013/03/05/brochure-ubuntu-phone-and-tablets/"/>
+    <updated>2013-03-05T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2013/03/05/brochure-ubuntu-phone-and-tablets</id>
+    <content type="html"><![CDATA[<p>Non so se sono già comparso in rete il materiale cartaceo che Canonical sta utilizzando per promuovere <del>-tra <span class="caps">OEMS</span> e operatori</del>- il suo SO per tablet e smartphones. <br />
+La settimana scorsa qui a Barcellona c&#8217;è stato il <a href="http://en.wikipedia.org/wiki/Mobile_World_Congress">Mobile World Congress</a> 2013 e sono riuscito a entrare in possesso di una copia delle brochure fornita da Canonical.</p>
+<p style="text-align:center;"><strong>Fronte e retro.</strong></p>
+<p style="text-align:center;"><a href="http://scaini.org/site/images/26.jpg"><img src="http://scaini.org/site/images/26t.jpg?1362493988" alt="" /></a><br />
+<a href="http://scaini.org/site/images/36.jpg"><img src="http://scaini.org/site/images/36t.jpg?1362494695" alt="" /></a></p>
+<p style="text-align:center;"><strong>Smartphone.</strong></p>
+<p style="text-align:center;"><a href="http://scaini.org/site/images/27.jpg"><img src="http://scaini.org/site/images/27t.jpg?1362494057" alt="" /></a><br />
+<a href="http://scaini.org/site/images/28.jpg"><img src="http://scaini.org/site/images/28t.jpg?1362494120" alt="" /></a></p>
+<p style="text-align:center;"><strong>Tablet.</strong></p>
+<p style="text-align:center;"><a href="http://scaini.org/site/images/29.jpg"><img src="http://scaini.org/site/images/29t.jpg?1362494155" alt="" /></a><br />
+<a href="http://scaini.org/site/images/30.jpg"><img src="http://scaini.org/site/images/30t.jpg?1362494191" alt="" /></a><br />
+<a href="http://scaini.org/site/images/31.jpg"><img src="http://scaini.org/site/images/31t.jpg?1362494236" alt="" /></a><br />
+<a href="http://scaini.org/site/images/32.jpg"><img src="http://scaini.org/site/images/32t.jpg?1362494372" alt="" /></a><br />
+<a href="http://scaini.org/site/images/33.jpg"><img src="http://scaini.org/site/images/33t.jpg?1362494442" alt="" /></a><br />
+<a href="http://scaini.org/site/images/34.jpg"><img src="http://scaini.org/site/images/34t.jpg?1362494508" alt="" /></a><br />
+<a href="http://scaini.org/site/images/35.jpg"><img src="http://scaini.org/site/images/35t.jpg?1362494637" alt="" /></a></p>
+<p>Io li trovo piuttosto ben fatti. <br />
+Nel frattempo sono uscite le `immagini&#8217; di ubuntu per Nexus 4, 7 e 10 &#8230; attendo speranzoso di poterlo provare anche sul mio nuovo (davvero!) <span class="caps">HTC</span> Desire Z (con cui ho fatto queste foto <a href="http://www.flickr.com/photos/davrandom/sets/72157632877238105/">e non solo</a> ).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Run Your Favourite Crack on Linux]]></title>
+    <link href="http://davrandom.github.io/blog/2013/02/05/run-your-favourite-crack-on-linux/"/>
+    <updated>2013-02-05T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2013/02/05/run-your-favourite-crack-on-linux</id>
+    <content type="html"><![CDATA[<p>(preamble: I do many things over the web every day, search for solutions, find solutions, implement solutions&#8230; then I forget everything. So some posts like this are just a collection of things for future memory)</p>
+<p>Sometimes it happens that you need a program to open a damn file. And this is a program you will never use again in your whole life.</p>
+<p><em>How can I open it?</em><br />
+Well, you have different choices</p>
+<ul>
+	<li>ask a friend</li>
+	<li>install the damn program</li>
+</ul>
+<p>If the d* program is that kind of very d* programs with serial numbers and stuff, that you have to pay for&#8230; well&#8230; it&#8217;s really a serius problem. And you might don&#8217;t want to read what follows.</p>
+<p>So assuming that you know how to find the d*, then you will probably end up having an installer plus a &#8217;&#8217;crack&#8217;&#8217; (a small executable that gives you the key or the sn of the program). And you probably end up having a linux machine and a windows executable crack&#8230; dammit!</p>
+<p><em>Do I really need a Windows machine now???</em><br />
+Hopefully no.</p>
+<p>Then you try installing wine, but the executable don&#8217;t run inside wine. Strange.</p>
+<p><em>And now? What do I do?</em><br />
+Normally in the blob you got (probably downloaded from internet or torrent or&#8230;) there is the crack exe plus a *.nfo file. If you open it with your loved text editor you will probably find some useful information, like &#8216;&#8217;_Note : You need vc++ 2010 to run keymaker_&#8217;&#8217; (that is &#8216;Visual C++&#8217;&#8230; a thing from Microsoft).<br />
+Aha!<br />
+This is a good piece of information!<br />
+Then I <em>just</em> have to install this vc++ 2010 on my pc and that&#8217;s it!</p>
+<p>To go straight to the point: the easiest way to do so is installing &#8217;&#8217;Winetricks&#8217;&#8217; from your package manager (or software center as they like to call it recently). Then launch Winetricks and let it install for you vc++.</p>
+<p>Now the small crack works. And you can finally open the d* file.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pissed Off]]></title>
+    <link href="http://davrandom.github.io/blog/2013/01/31/pissed-off/"/>
+    <updated>2013-01-31T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2013/01/31/pissed-off</id>
+    <content type="html"><![CDATA[<p>In giornate come oggi, in cui essenzialmente non funziona un cazzo, le relazioni lavorative sono complicate mi rifugio ad ascoltare Peter Gabriel. Non so perché, ma dopo sorrido. Forse perché con la sua voce roca ti dice che c&#8217;è comunque qualcosa di bello (a parte lui) per cui stasera varrà la pena prendere la bici e fare sei chilometri in salita e poi andare in palestra. Nonostante Mathematica mi dia dei risultati incomprensibili, malgrado gli atteggiamente supponenti di alcuni colleghi, in barba alla crisi.</p>
+<p><a href="http://youtu.be/UfBgAq0sQ1s?t=25m42s">Shhhh listen!</a></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[La Festa De Reyes]]></title>
+    <link href="http://davrandom.github.io/blog/2013/01/07/la-festa-de-reyes/"/>
+    <updated>2013-01-07T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2013/01/07/la-festa-de-reyes</id>
+    <content type="html"><![CDATA[<p>In Spagna sembra che le festività debbano essere godute il più possibile, non si sa mai che non ce ne siano più! In questo periodo natalizio il 25, 26, 31 dicembre e 6 gennaio sono delle date sacre per i festeggiamenti in famiglia.</p>
+<p>Oggi parliamo del 6 gennaio, il giorno dei Re Magi, los Reyes Magos appunto. Nell&#8217;Italia del nord-est normalmente si bruciano cataste di legna&#8230; in base al luogo e al giorno del falò (alcuni lo accendono il 5 alcuni il 6 gennaio) questo si può chiamare diversamente, da noi: fogaròn, pan e vin, &#8230; oppure nella <a href="http://www.turismofvg.it/Carnia">Carnia</a> si lanciano <a href="http://it.wikipedia.org/wiki/T%C3%AEr_des_cidulis">las cidulas,</a> delle rotelle di abete infuocate. Detto questo abbiamo finito di rinverdire il nostro giardino e guardiamo a quello del vicino. Nella Spagna che abito, sembra che il giorno del 6 gennaio sia un giorno importante: arrivano los Reyes! Effettivamente un po&#8217; mediaticamente rincoglioniti da &#8216;sta storia di Babbo Natale, Santa Claus o come cavolo volete chiamarlo (San Nicola o Saint Nicholas o forse anche Odino), i cristiani del nostro soleggiato Paese si sono dimenticati che i regali li portano i Re Magi. La Spagna <del>-pur ammettendo i matrimoni gay</del>- è molto cattolica e abbastanza chiusa verso le cose anglofone o anglosonanti. Pertanto in Spagna i regali i bimbi li ricevono il 6 gennaio, con l&#8217;arrivo dei Re. I bambini <del>-che recepiscono le lingue presto e non sono scemi</del>- hanno ottimizzato il processo, inglobando anche la festa &#8220;pagana&#8221; di Babbo Natale (o quel che è) rastrellando doppia razione di regali!</p>
+<p>Io che purtroppo bimbo non sono più, mi accontento di assaggiare i docli tipici della tradizione. Ogni festività ha il suo dolce. Per l&#8217;arrivo dei Re in Catalunya fanno una ciambella fritta chiamata <a href="http://es.wikipedia.org/wiki/Tortel_%28dulce%29">Tortel de Reyes.</a>  È una ciambella più o meno rotonda, della stessa pasta con cui si fanno le brioches e il ripieno <del>-normalmente</del>- è marzapane, completamente ricoperto dalla pasta. L&#8217;esterno è comunque appiccicoso, ma non so dirvi cosa sia&#8230; è poi decorato con frutta candita e frutta secca, e ha due sorprese! (ne parlo dopo)</p>
+<p style="text-align:center;"><img src="http://scaini.org/site/images/20t.jpg?1357500184" alt="" /></p>
+<p>In Catalunya si mangia <em>esclusivamente</em> il giorno dei Re, dopo il pranzo. Sembra che la tradizione di festeggiare l&#8217;arrivo dei Re con questo dolce sia in realtà di origine pagana (valà&#8230;), durante l&#8217;Impero romano si festeggiavano le feste dell&#8217;inverno, o feste dei frutti, con dolci fatti con fichi, datteri e miele. Ora sul perché e il percome, i Romani e i fagioli, non sono molto convinto, ho fonti discordanti. Proverò a chiedere alla gente e vedere cosa mi risponde. Comunque, cosa c&#8217;entrano i fagioli a questo punto? Beh il dolce contiene due sorprese nascoste: un fagiolo e una figurina/statuetta, normalmente di uno dei Re Magi. Secondo la tradizione chi trova il Re nel suo pezzo di torta viene incoronato re della giornata, e deve vestire una piccola coroncina di cartone che viene consegnata con il dolce. Chi trova il fagiolo&#8230; deve pagare il tortel.</p>
+<p>Comunque era buono ;)</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Repositories for Science Software on Linux]]></title>
+    <link href="http://davrandom.github.io/blog/2012/12/03/repositories-for-science-software-on-linux/"/>
+    <updated>2012-12-03T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/12/03/repositories-for-science-software-on-linux</id>
+    <content type="html"><![CDATA[<p>(preamble: I do many things over the web every day, search for solutions, find solutions, implement solutions&#8230; then I forget everything. So some posts like this are just a collection of things for future memory)</p>
+<p>Not always the ubuntu official repository has the newest software. Fortunately there are some people compiling the latest source code and sharing the packages. There are several technical options to achieve this. One &#8220;official&#8221; solution for Ubuntu is <a href="launchpad.net">lauchpad,</a> where you can find many repositories with a lot of software.</p>
+<p>In particular you may be interested in Maxima and Octave.</p>
+<p>for <strong>wxMaxima</strong>:</p>
+<ul>
+	<li>you may want to read this first: https://help.ubuntu.com/community/Maxima</li>
+	<li>this is the repositoy in lauchpad https://launchpad.net/~blahota/<ins>archive/wxmaxima/</ins>packages</li>
+	<li>and this is essentially the lines that you can cut and paste on your terminal to have the latest wxmaxima:</li>
+</ul>
+<pre><code>sudo apt-add-repository ppa:blahota/wxmaxima
+sudo apt-get update
+sudo apt-get install wxmaxima</code></pre>
+<p>for <strong>octave</strong>:</p>
+<ul>
+	<li>this is the repositoy in lauchpad https://launchpad.net/~mvanderkolff/+archive/octave-3.6</li>
+	<li>and this is essentially the lines that you can cut and paste on your terminal to have the latest wxmaxima:</li>
+</ul>
+<pre><code>sudo apt-add-repository ppa:mvanderkolff/octave-3.6
+sudo apt-get update
+sudo apt-get install octave</code></pre>
+<p>for <strong>latest texlive</strong></p>
+<pre><code>sudo add-apt-repository ppa:texlive-backports/ppa
+sudo apt-get update
+sudo apt-get install texlive</code></pre>
+<p>Hope this helps<br />
+d</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Concerti Di Rock Prog... Esistono Ancora!]]></title>
+    <link href="http://davrandom.github.io/blog/2012/11/25/concerti-di-rock-prog-esistono-ancora/"/>
+    <updated>2012-11-25T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/11/25/concerti-di-rock-prog-esistono-ancora</id>
+    <content type="html"><![CDATA[<p>Non so voi ma io sono abbastanza un fan(atico) del rock progressive (parliamo di (fine) anni &#8217;60 e anni &#8217;70). Quindi Genesis, Yes, Emerson Lake &amp; Palmer, Van Der Graaf Generator, Pink Floyd, Gentle Giant, King Crimson, Jethro Tull &#8230; e gli italiani Premiata Forneria Marconi, Banco del Mutuo Soccorso,  Le Orme, New Trolls, Balletto di Bronzo, Perigeo e molti molti altri.</p>
+<p>Bene c&#8217;è un problema&#8230; è piuttosto difficile trovare dei live di queste formazioni della configurazione originale, perché il prog è più o meno morto alla fine degli anni &#8217;70 (ovviamente si può parlarne, ma non ora). Quindi che si fa? Ci si chiude a sentire degli ottimi cd nella propria casetta. No, succede che ci sono degli altri fan(atici) che suonano e fanno anche del buon prog.</p>
+<p>Un amico spagnolo <del>-anche lui piuttosto fanatico</del>- mi invita a sentire un concerto prog alla <a href="http://www.salamonasterio.es">sala Monasterio</a>  dove suoneranno gli <a href="http://www.herbahameli.cat/">Herba d&#8217;Hamelí</a> spagnoli (catalani) e i <a href="http://www.frenchtvonline.com/">French TV</a> directly from US. In teoria le star della serata sono i secondi. Io non conosco nessuna delle due band, ma mi dico `è il caso di iniziare a frequentare la vita serale spagnola&#8230; almeno quella che mi interessa&#8217;.</p>
+<p>Lunedì sera. Entriamo (ElisaB ed io) in questa &#8220;sala&#8221;. Uno immagina una sala se la chiamano &#8220;sala&#8221;. No?<br />
+No.<br />
+Insomma è un sotterraneo, tetto a volta, molto basso. Odore d&#8217;umido coperto con un profumo sintetico molto inteso &#8230; di non so cosa.  Palco piccolo. Non esattamente quello che mi aspettavo. Certo non siamo più negli anni &#8217;70. Peccato.</p>
+<p>Suonano gli &#8220;Herba d&#8217;Hamelí&#8221;. Devo dire che mi piacciono molto, anche se non hanno esattamente il fisico da palco, la musica è buona. Molte idee ritmiche e melodiche, miscelate bene. Molti cambi di ritmo, di pattern melodici, alla &#8220;vecchia&#8221;. Mi piacciono, bravi. Particolare plauso al batterista, al bassista e al chitarrista, ottima fusione e sincronia. Il tastierista va certamente migliorato sia nella selezione dei suoni che nella tecnica. Il cantante non è così male, manca un po&#8217; di presenza scenica, ma ha una buona voce (migliorabile). Il flautista fa qualche intervento e non è spettacolare, ma non è nemmeno pessimo. Nel complesso penso sia un buon gruppo, interessante e che può migliorare. Continuate così! Anzi no, meglio.</p>
+<p>Seguono i &#8220;Frech TV&#8221;. Devo dire che non mi sono piaciuti per nulla. Tecnicamente decisamente bravi, in particolare il batterista e il bassista (impressionante). Ritmicamente non ho trovato però la ricchezza e freschezza dei precedenti. La musica che fanno è molto tendente alla fusion, che tradotto per i non esperti (o i non fan come me del genere fusion) è &#8220;ognuno fa quel cazzo che gli pare spesso senza una idea melodico-armonica complessiva&#8221;. Tanti suoni, anche complessi, ma alla fine ti rimane poco.</p>
+<p>Tutto questo è molto personale, non desidera assurgere a generalità. Quindi cari fan della fusion non spaccatemi le palle.<br />
+d</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Latest Cern Root 5.34.03 Package for Ubuntu/Debian 64bits]]></title>
+    <link href="http://davrandom.github.io/blog/2012/11/24/latest-cern-root-53403-package-for-ubuntu-debian-64bits/"/>
+    <updated>2012-11-24T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/11/24/latest-cern-root-53403-package-for-ubuntu-debian-64bits</id>
+    <content type="html"><![CDATA[<p>Latest Cern Root 5.34.03 package for Ubuntu/Debian 64bits is available for download in my <a href="https://sourceforge.net/projects/cernrootdebs/">sourceforge project</a> with a nice and very helpful page :) just <a href="http://scaini.org/site/projects/27/root-packages-for-debian-and-ubuntu">one click from here.</a></p>
+<p>Check it out! <a href="http://sourceforge.net/projects/cernrootdebs/files/latest/download">(direct download)</a></p>
+<p>ps: I compiled this package on Ubuntu 10.04, since Ubuntu 12.04 doesn&#8217;t allow anymore to put packages in /opt. Soon we will have to decide if:<br />
+- continue packaging in 10.04 with packages destistation /opt<br />
+- switch to 12.04 with destination /usr/local<br />
+Since I have both WM it&#8217;s just a matter of taste. Any hint is very welcome.<br />
+d</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mesh Networks Around the World]]></title>
+    <link href="http://davrandom.github.io/blog/2012/11/01/mesh-networks-around-the-world/"/>
+    <updated>2012-11-01T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/11/01/mesh-networks-around-the-world</id>
+    <content type="html"><![CDATA[<p>Could be the future of internet a mesh network all around the world?</p>
+<p>Il futuro di internet è nelle reti mesh? In una rete parallela a internet fatta da tutti i suoi utenti che comunicano direttamente? E con direttamente intendo&#8230; direttamente! Ognuno con la sua antennina sul tetto di casa.</p>
+<p>Magari non sarà un futuro immediato, ma sembra che alcune comunità nel mondo si stiano organizzando. Sapevo del progetto di Firenze (ma ne parleremo dopo), ma la mia attenzione è stata inizialmente attratta da <a href="http://wlan-si.net/en/blog/2012/10/10/we-are-internationally-wireless/">questo articolo:</a> <strong>`We are internationally wireless&#8217;</strong> un articolo del 10 ottobre del gruppo sloveno <a href="http://wlan-si.net/">`wlanSlovenija&#8217;.</a> La loro rete adesso è internazionale, collegano Austria, Slovenia e Croazia. Quand&#8217;ecco che il 26 ottobre <a href="http://punto-informatico.it">PuntoInformatico</a> pubblica <a href="http://punto-informatico.it/3634679/PI/Lettere/ninux-rete-mesh-tutti.aspx">questo articolo</a> <strong>`Ninux, la rete mesh di tutti&#8217;</strong> che parla della rete <a href="ninux.org">ninux.org</a> di Firenze e&#8230; porta alla mia conoscenza la rete catalana <a href="guifi.net">guifi.net.</a></p>
+<p>Se andate a vedere la <a href="http://guifi.net/en/node/2413/view/map">mappa</a> che c&#8217;è su guifi.net rimarrete piuttosto impressionati&#8230; più di 18000 nodi funzionanti. Davvero incredibile.</p>
+<p>Guardacaso adesso mi trovo a Barcellona per un po&#8217; di tempo&#8230; dal mio balcone riesco a misurare ben 63 reti, e il costo menisle di una rete adsl varia dai 30 ai 40 euro al mese (non poco). Questo mi lascia abbastanza perplesso&#8230; perché la gente non si unisce per diminuire le spese? Tra l&#8217;altro una infrastruttura <del>senza precedenti</del> esiste già&#8230; perché non collegarsi?<br />
+E questo è quello che sto tentando di fare io.<br />
+Innanzitutto mi sono iscritto sul sito di guifi.net e ho chiesto informazioni sul loro forum. Poi loro mi hanno diretto sulla mailing-list di Barcellona dove ho chiesto aiuto. Tecnicamente si tratta di capire se dal mio palazzo si riesce vedere qualche nodo (o supernodo) nei paraggi.<br />
+Vi farò sapere.</p>
+<p>Se siete a conoscenza di qualche altra rete mesh in giro per il mondo (esclusa la penisola iberica che è coperta da guifi.net) fatemelo sapere!<br />
+d</p>
+<p>edit: Wikipedia ha una lista (incompleta) delle <a href="https://secure.wikimedia.org/wikipedia/en/wiki/List_of_wireless_community_networks_by_region">reti comunitarie nel mondo.</a></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Portare I Vostri Percorsi Di Google Maps Sul Navigatore? Si Può!]]></title>
+    <link href="http://davrandom.github.io/blog/2012/10/22/portare-i-vostri-percorsi-di-google-maps-sul-navigatore-si-puo/"/>
+    <updated>2012-10-22T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/10/22/portare-i-vostri-percorsi-di-google-maps-sul-navigatore-si-puo</id>
+    <content type="html"><![CDATA[<p>Non so voi, ma io mi trovo ogni tanto a giocare con google maps e a tracciare percorsi che vorrei prima o poi percorrere (change verb). Una volta salvati ne &#8220;Le mie mappe&#8221; però diventano praticamente inutilizzabili perché non si possono trasferire su un navigatore gps. E qui accade il miracolo. O meglio &#8230; i problemi che incontro li incontrano molti altri&#8230; e c&#8217;è sempre qualcno che ha del tempo per trovare la soluzione che cerchi.<br />
+<a href="http://www.elsewhere.org/journal/gmaptogpx/">Questo ragazzo</a> ha trovato un modo per salvare i percorsi che creiamo su google maps in formati che poi si possono caricare per esempio su un navigatore (o vedere su un pc per esempio con gpsprune, tangogps, &#8230;). Il suo scriptino genera un gpx che potete utilizzare direttamente (o convertire in quel che vi pare con babelgps).</p>
+<p>Lo trovo geniale!</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[L'istituto Tedesco Per La Sicurezza Informatica Avverte Gli Utenti: Non Usate Microsoft Explorer]]></title>
+    <link href="http://davrandom.github.io/blog/2012/09/20/l-istituto-tedesco-per-la-ricurezza-informatica-avverte-gli-utenti-non-usate-microsoft-explorer/"/>
+    <updated>2012-09-20T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/09/20/l-istituto-tedesco-per-la-ricurezza-informatica-avverte-gli-utenti-non-usate-microsoft-explorer</id>
+    <content type="html"><![CDATA[<p><strong>A quanto sembra Microsoft Internet Explorer, dalla versione 6 alla 9, avrebbe una falla di sicurezza.</strong><br />
+<strong>Meglio usare dei browser alternativi.</strong><br />
+<strong>Ma tanto lo sapevamo già no?</strong></p>
+<p>La <a href="http://www.zdnet.com/germany-warns-users-to-ditch-internet-explorer-over-security-hole-7000004489/">fonte</a> dice: <br />
+<cite>Germany&#8217;s Federal Office for Information Security (<span class="caps">BSI</span>), the agency that looks after IT security for the country&#8217;s federal government, is urging individuals and companies to stop using Internet Explorer.</cite></p>
+<p><cite>The warning comes after the news that zero-day exploits are already in the wild for a security hole that affects Internet Explorer, versions 6 to 9. According to the <span class="caps">BSI</span>, it is more than likely that criminals will use these vulnerabilities to target users.</cite></p>
+<p><cite>As there is no fix for the flaw currently available, the <span class="caps">BSI</span> is recommending users ditch IE until Microsoft releases a patch.</cite></p>
+<p><cite>&#8220;The <span class="caps">BSI</span> recommends all users of Internet Explorer to use an alternative internet browser until the manufacturer has released a security update,&#8221; it said in an advisory on <a href="https://www.bsi.bund.de/ContentBSI/Presse/Pressemitteilungen/Presse2012/Internet%20Explorer%20Warnung%2017092012.html">the <span class="caps">BSI</span> site.</a></cite></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tempo. Costanza. Pazienza. Capacità.]]></title>
+    <link href="http://davrandom.github.io/blog/2012/09/19/tempo-costanza-pazienza-capacita/"/>
+    <updated>2012-09-19T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/09/19/tempo-costanza-pazienza-capacita</id>
+    <content type="html"><![CDATA[<p>Per scrivere ci vogliono almeno un po&#8217; di quelle sopra. Al momento mi mancano tutte. Ma ho sempre buoni propositi, che però non aiutano un cazzo. <br />
+È il caso che faccia a breve un riepilogo di quello che mi è successo dalla fine della specialistica&#8230; ma sono così tante cose che &#8230; mi serve tempo, costanza, pazienza. E ancora manca la capacità.</p>
+<p>Per uscire da questo circolo vizoso potrei proprio dirvi che ho letto &#8220;Betibù&#8221; di Claudia Piñeiro. L&#8217;ho trovato molto divertente, oltre che ben scritto (dopo le prime 20 pagine ci si abitua allo stile, che forse anche migliora) e con un finale &#8230; molto aperto per quanto mi riguarda. Consigliato.</p>
+<p>Adesso cerco di proseguire nella scrittura dei miei passati prossimi.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Linux Mint Debian Edition Su Dell Xps Studio]]></title>
+    <link href="http://davrandom.github.io/blog/2012/08/04/linux-mint-debian-edition-su-dell-xps-studio/"/>
+    <updated>2012-08-04T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/08/04/linux-mint-debian-edition-su-dell-xps-studio</id>
+    <content type="html"><![CDATA[<p>(preamble: I do many things over the web every day, search for solutions, find solutions, implement solutions&#8230; then I forget everything. So some posts like this are just a collection of things for future memory)</p>
+<p>Avevo già provato a installare <span class="caps">LMDE</span> sul mio portatile, ma mi dava kernel panic all&#8217;avvio. Facendo partire la modalità &#8220;compatibility mode&#8221; la live invece si avvia. Ho guardato un po&#8217; le opzoni al boot che ha questa modalità&#8230;</p>
+<p><strong>Soluzione:</strong><br />
+Se avete una Mint o una <span class="caps">LMDE</span> che va in kernel panic all&#8217;avvio provate aggiungendo nelle opzioni di boot</p>
+<pre><code>acpi=off</code></pre>
+<p>Installate <span class="caps">LMDE</span> e poi avviatela dal vostro disco ricordandovi di nuovo di aggiungere questa opzione tra le opzioni di boot. Installate i drivers nvidia e generate il file di configurazione con nvidia-xconfig. RIavviate&#8230; ma <span class="caps">NON</span> mettete l&#8217;opzione acpi=off perché altrimenti non verrà rilevato il display e non partirà X. L&#8217;opzione corretta da mettere è</p>
+<pre><code>noapic</code></pre>
+<p>Dovrebbe funzionare.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Drive - Rovinj (Rovigno)]]></title>
+    <link href="http://davrandom.github.io/blog/2012/06/22/test-drive-rovinj-rovigno/"/>
+    <updated>2012-06-22T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/06/22/test-drive-rovinj-rovigno</id>
+    <content type="html"><![CDATA[<p>Volevo chiamare questo articolo:</p>
+<h2 style="text-align:center;">Sul permanganato e Maga Magò <br>
+(ovvero Vacanze in Croazia)</h2>
+<p>ma sarebbe stato poco comprensibile e poco indicizzabile ;)</p>
+<p>Ad ogni modo la mia Lei (quella su due zampe) mi dice: <br />
+<em>&#8220;Perché non andiamo qualche giorno in Croazia?&#8221;</em> <br />
+<em>&#8220;Ottimo! Dovunque tu desideri!&#8221;</em></p>
+<p>E così grazie a paypal ci organizziamo il nostro (sarebbe meglio la nostra) finesettimana a Rovigno.<br />
+La Lei non è una fanatica delle due ruote, quindi tutto va organizzato di modo che sia il meno doloroso e traumatico possibile. Decidiamo di fare la strada costiera, di modo da godere del panorama marino il più possibile per sopportare meglio l&#8217;esigua distanza che ci separa dalla meta.</p>
+<p><strong>Giorno Uno.</strong></p>
+<p style="text-align:center;"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Trieste,+Italy&amp;daddr=45.56261,13.78726+to:45.52453,13.73251+to:45.21456,13.60369+to:45.15376,13.61186+to:Rovinj,+Croatia&amp;hl=en&amp;geocode=FTWeuAIdIj7SACmnbud3TGt7RzEAdJEVhwkHBA%3BFfI6twIdfGDSACmjVuFDNWh7RzFwxF81HPgAEw%3BFTKmtgIdnorRACmTjQdfLmZ7RzFByEozHPgAEw%3BFWDrsQIdapPPACkTdHg3u5d8RzFh2SQ1UK0AEw%3BFeD9sAIdVLPPACmzMjEB-JV8RzERWFA1UK0AEw%3BFQnhrwIdzxrQACn_hlxNY798RzFTrpjFYZ_G_w&amp;aq=1&amp;oq=rovi&amp;sll=45.143547,13.634033&amp;sspn=0.142388,0.308647&amp;dirflg=h&amp;mra=dpe&amp;mrsp=4&amp;sz=12&amp;via=1,2,3,4&amp;ie=UTF8&amp;t=m&amp;ll=45.390735,13.710938&amp;spn=1.350187,2.334595&amp;z=8&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Trieste,+Italy&amp;daddr=45.56261,13.78726+to:45.52453,13.73251+to:45.21456,13.60369+to:45.15376,13.61186+to:Rovinj,+Croatia&amp;hl=en&amp;geocode=FTWeuAIdIj7SACmnbud3TGt7RzEAdJEVhwkHBA%3BFfI6twIdfGDSACmjVuFDNWh7RzFwxF81HPgAEw%3BFTKmtgIdnorRACmTjQdfLmZ7RzFByEozHPgAEw%3BFWDrsQIdapPPACkTdHg3u5d8RzFh2SQ1UK0AEw%3BFeD9sAIdVLPPACmzMjEB-JV8RzERWFA1UK0AEw%3BFQnhrwIdzxrQACn_hlxNY798RzFTrpjFYZ_G_w&amp;aq=1&amp;oq=rovi&amp;sll=45.143547,13.634033&amp;sspn=0.142388,0.308647&amp;dirflg=h&amp;mra=dpe&amp;mrsp=4&amp;sz=12&amp;via=1,2,3,4&amp;ie=UTF8&amp;t=m&amp;ll=45.390735,13.710938&amp;spn=1.350187,2.334595&amp;z=8" style="color:#0000FF;text-align:left">View Larger Map</a></small></p>
+<p>Ovviamente il difficile consiste nell&#8217;uscire dall&#8217;Italia: sulla sopraelevata perdiamo l&#8217;uscita Koper &#8230;  &#8220;è qui che dovevamo uscire, vero?&#8221; &#8230; quindi perdiamo una mezz&#8217;oretta (non siamo ancora avvezzi a certe complicazioni della viabilità triestina).</p>
+<p>Il confine Italia &#8211; Slovenia è inesistente&#8230; nessuna barriera (stanno in questo momento smontando il posto di blocco sull&#8217;autostrada a Rabuiese). Dopo i controlli in uscita dalla Slovenia e in entrata in Croazia ci fermiamo per rifocillarci.</p>
+<p style="text-align:center;"><img src="http://scaini.org/site/images/16t.jpg?1340274623" alt="" /></p>
+<p>Come si vede dalla foto siamo carchi: una borsa 30l e una 50l della lous.de (riempite poco&#8230;), una borsa da serbatoio, bauletto, stuoina da mare. Per tre giorni abbiamo tanta roba&#8230; ma va bene così&#8230; è pur sempre un test.</p>
+<p>Più avanti ci fermeremo nei pressi di Rovigno a mangiare un panino&#8230; è l&#8217;ora giusta.<br />
+Verso le 14.30 arriviamo a destinazione. Non è banale trovare l&#8217;appartamento, ma grazie al gadget tecnologico fornito dal buon Thongrim è fatta. I proprietari non sono in casa, ma la vicina ci ha notati e telefona lei alla nostra ospite. Da quanto abbiamo capito moltissimi abitanti di Rovigno affittano camere, appartamenti, quindi non vi conviene affittarli su internet come abbiamo fatto noi! L&#8217;agenzia si ciuccia il 30% dei vostri euri&#8230;<br />
+Poco dopo arriva la proprietaria che ci fa vedere la camera, con ampio bagno e ripostiglio con armadio e frigorifero&#8230; mitica! Gentile discreta &#8230; ci piace.</p>
+<p>Tre due uno e siamo al mare&#8230; la mia Lei conosce bene il posto quindi mi affido a lei&#8230; bello non dover pensare. Siamo in vacanza.<br />
+Prima di tutto un&#8217;oretta di sole e poi in acqua, dove ci divertiamo a scovare le creature marine <br />
+&#8220;uh un <a href="http://it.wikipedia.org/wiki/Tripterygion_tripteronotus">peperoncino di mare!</a> &quot; <br />
+&#8220;guarda guarda qui: cos&#8217;è?&#8221; <br />
+&#8220;&#8230;boh&#8230; ma guarda che c&#8217;è la <a href="http://it.wikipedia.org/wiki/Posidonia">posidonia,</a> bene!&#8221;<br />
+&#8220;e ci sono anche le <a href="http://it.wikipedia.org/wiki/Pinna_nobilis">pinne nobilis</a> (sono istruito&#8230;)&#8221;<br />
+&#8220;brava bestia!&#8221;<br />
+Usciamo dall&#8217;acqua. &#8220;Ah, guarda queste due bollicine che ho sulla pancia&#8230; mah sarà qualche morso di insetto&#8230;&#8221;</p>
+<p>Per la cena optiamo per un posto dell&#8217;infanzia di Lei, che senza infamia e senza lode ci dà da mangiare del pesce (qualcosa di buono qualcosa di meno). Io ho un po&#8217; di mal di testa, mi sento un po&#8217; cotto&#8230; &#8220;ma sarà che hai guidato&#8221; &#8211; dice Lei. Mah veramente l&#8217;anno scorso con l&#8217;amico Schizz facevamo tre volte i chilometri di oggi tranquillamente&#8230; sarà&#8230;<br />
+[nota: nel 2011 con il buon Schizz abbiamo fatto Trieste &#8211; Dubrovnik e ritorno in cinque giorni facendo la costiera. Nella mia speranza c&#8217;è <del>prima o poi</del> di riuscire a concluderne il diario.]</p>
+<p><strong>Giorno Due.</strong></p>
+<p>Ci svegliamo. Ho la febbre. Nuove bolle in giro. Ci guardiamo&#8230; ma che culo! Non andiamo mai fuori di casa, un agognato giro e mi prendo nonsisacosa. Bene andiamo ad appurare cos&#8217;è questo nonsisacosa. Andiamo verso la farmacia più vicina; l&#8217;addetta capisce quello che diciamo (più o meno) e ci fa capire che non ha idea di cosa sia&#8230; noi vorremmo intanto del paracetamolo (che sfortunatamente mancava nel nostro kit) e sapere dov&#8217;è il pronto soccorso. &#8220;Due minuti di là&#8230;&#8221;<br />
+Ci incamminiamo e dopo venti minuti (da notare che ho un dolore al diaframma che mi ammazza) arriviamo al pronto soccorso dove ci accoglie una meravigliosa infermierina, e io fortunatamente sto male! Parla inglese. Ottimo. Ci dice che il medico arriva alle dieci, quindi dobbiamo aspettare venti minuti. Per non aspettare nella saletta poco ossigenata, ce ne andiamo in un &#8220;parchetto&#8221; vicino &#8230; in realtà sospettiamo sia il giardino di un ospizio. Ad ogni modo: grazie. Torniamo alle 10 e ci accoglie un mega infermierone con tanto di orecchino piratesco. Ovviamente abbiamo un po&#8217; di persone davanti. Poco male, aspetteremo.<br />
+Dopo aver respinto un tentativo di sorpasso da parte di una vecchietta austriaca finta gnorry, mi visita una dottoressa&#8230; purtroppo non reggeva il confronto con l&#8217;infermierina d&#8217;ingresso. <br />
+Diagnosi: <em>varicella</em> ! Mi prescrive:</p>
+<ul>
+	<li>dei cristali che scioli in acqva &#8230; poca acqva sì,  e poi passi con spugnèta &#8230; sì?!</li>
+	<li>una crema bianca sì &#8230; che copri le bolle &#8230; tutte bene bene &#8230; si</li>
+	<li>antistaminico &#8230; sììì</li>
+	<li>paracetamol &#8230; che qvando hai febre, sì?<br />
+ottimo ti ringrazio, mitica davvero. <br />
+Paghiamo (sì qui non abbiamo ben capito la storia che la nostra carta sanitaria è internazionale ma non lo è&#8230; comunque 200kn non è una cifrona). Filiamo verso la prima farmacia che ci da i <a href="http://www.dermaclub.it/EducationalSub.asp?ID=31">cristalli di permanganato</a> (si rivelerà una bella scoperta), la cremina&#8230; &#8220;paracetamol &#8230; ma dov&#8217;è bambino?&#8221; &#8220;eh no no sono io!&#8221; &#8230;e antistamico. Dose adulto.</li>
+</ul>
+<p>Finora le persone incontrate sono state tutte estremamente gentili.</p>
+<p>Ci facciamo un giretto per Rovigno dove prendiamo un gelato. Io sono demolito e optiamo per sederci sul molo.</p>
+<p style="text-align:center;"><img src="http://scaini.org/site/images/17t.jpg?1340278555" alt="" /></p>
+<p>Si tratta tra l&#8217;altro di tornare verso l&#8217;appartamento. Stiamo seduti qui che è meglio. Un bel venticello ci rinfresca, e all&#8217;ombra di un baracchino che vende vestitini &#8220;estivi&#8221; ci godiamo il mare, i pochi turisti che sciabattano, i gabbiani che iniziano la stagione &#8220;di grassa&#8221;. Si sta (starebbe) proprio bene.</p>
+<p>Nel pomeriggio io me ne sto a casa e sperimento i primi prodottini. Lei si gode un po&#8217; di sole e mare, la raggiungerò dopo su una panchina all&#8217;ombra con la merenda.<br />
+Verso cena sono sullo stordito, ma bisogna pur mangiare! &#8220;Scegli tu, un posto vicino, così il rientro è più facile&#8221;, mi dice. La strada che esce dalla città è tappezzata di <em>konoba</em>, ma presto adocchio un cartello <em>Agriturist</em> e mi butto nella stradina sterrata indicata. Dopo 600m di sterrato arriviamo al cortile di questo bel locale in pietra, con ampia terrazza con copertura &#8220;alla romana&#8221;. Nel parcheggio solo due auto: una italiana e una austriaca. Bene e male. Da fuori si vede un solo tavolo occupato. Bene e male. Vebè entriamo.</p>
+<p>Sulla sinistra un signore biondo, decisamente alto e imponente, sta cenando alle spese di qualche capretto o agnello. Si pulisce mani e bocca e si avvicina a noi. &#8220;È possibile mangiare qualcosa?&#8221; &#8220;Certo&#8221; &#8220;Preferiremmo rimanere all&#8217;interno&#8230;&#8221; <br />
+Ci fa sedere su un tavolo da due. I tavolini sono fatti con il mobiletto in ghisa che sorregge le vecchie macchine da cucire. Gli austriaci sono sulla destra, in una tavolata nella terrazza. Sono di mezza età e non schiamazzano&#8230; strano.</p>
+<p>&#8220;Oggi in realtà saremmo chiusi&#8230;&#8221;<br />
+&#8220;Ah ma non vogliamo disturbare&#8230;&#8221;<br />
+&#8220;Nessun disturbo, è un piacere! Cosa volete da mangiare?&#8221;<br />
+&#8220;Cosa avete?&#8221;<br />
+&#8220;Tante cose&#8230; spaghetti con tartufo, gnocchi con gulash, &#8230;&#8221; &#8212; e poi effettivamente una ventina di cose che non ricordo. Ci lascia pensarci su. &#8220;Cosa dici, Lei? Ci aprono?&#8221; Non ci ha dato un menu coi prezzi&#8230; insomma la rete giusta per due coglioni come noi&#8230; di tutte le konobe dell&#8217;istria siamo capitati nell&#8217;unico agriturist chiuso&#8230; bene no?</p>
+<p>Io desidero degli gnocchi con gulash e Lei invece una grigliata.<br />
+Il biondo ascolta le nostre ordinazioni e poi fa &#8220;se faccio un po&#8217; di gnocchi e un po&#8217; di grigliata che poi dividete?&#8221; a noi va bene tutto &#8220;purché se magna&#8221;. &#8220;Maaa&#8230; se invece degli gnocchi vi porto degli articioki <em>(carciofi n.d.r.)</em>  con piselli, tutta roba nostra buonissima&#8230;&#8221; masì masì&#8230; è uguale&#8230; fame.</p>
+<p>Tempo cinque minuti, che io e Lei ci guardiamo un po&#8217; negli occhi e iniziamo ad assaggiare il pane caldo che ci porta, e arriva una bella pentola di zuppa di carciofi e piselli. [accorciamo il racconto che sto sbrodolando] Insomma, ottima davvero ottima. E in più sta calmierando efficacemente il mio mal di &#8220;pancia&#8221;. Il biondo ritorna all&#8217;attacco tentando farci cambiare anche il piatto di grigliata proponendoci dell&#8217;ottimo agnello, ma Lei resiste e tenace vuole il suo maiale. Ci racconta che il giorno prima aveva avuto il ristorante prenotato da politici che avevano dieci portate&#8230; (informazione utile per dopo) le sue incursioni continueranno e aggiungeranno informazioni interessanti per contestualizzare il biondo.<br />
+Ci arriva un bel piattone ovale con una quantità di carne adeguata alla nostra fame (non troppa roba per fortuna) e delle patate fatte nella <a href="http://fiumetrieste.blogspot.it/2012/01/la-peka-dalmata.html">strepigna</a> che sapevano guardacaso di agnello e riusciamo anche a trovarci due ottimi pezzettini di agnello ;) Tutto ottimo! Dopo un po&#8217; passa e ci chiede se ci piace, e se sappiamo come si fanno quelle patate. Ci asteniamo dal dirgli che si fanno con l&#8217;agnello, ma almeno sfoggiamo la nostra conoscenza della strepigna, sempre più convinti che ci &#8220;aprirà&#8221;.</p>
+<p>Siamo sufficientemente sazi che non prendiamo altro. Gli austrici se ne vanno facendo gran feste al biondo. Anche noi ce ne andiamo è il momento del conto &#8230; 200kn meno di 30€, &#8220;prezzo per amici!&#8221;<br />
+Ringraziamo lui e il dio che ci ha protetto e andiamo a nanna felici. Domani si torna a casa, pustole e febbre permettendo.</p>
+<p>E fu sera e fu mattina, il sole splende come prima. Ci svegliamo e le pustole sono moltiplicate, ne ho molte in testa e &#8220;finalmente&#8221; anche in faccia. Non sono un fiore decisamente. Decidiamo un piano d&#8217;attacco e ce ne atteniamo. &#8220;Dopo il pranzo partiamo e con la calma, prendendo la strada più breve ;)&#8221; E così si fa. Come saliamo in moto e ci dirigiamo verso casa mi sento meglio. È bello andare in moto, anche in due e piuttosto carchi è divertente e rilassante. Facciamo una sola sosta in un parcheggio sotto degli alberi, e sono proprio felice! Finalmente abbiamo fatto un viaggio in due in moto. Mi sembra incredibile, conoscendo Lei&#8230; certo non è stato esattamente come lo sognavamo&#8230; ma sappiamo che si può fare, che è alla nostra portata.</p>]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Webos | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/webos/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[WebOS Goes (Gradually) Open Source]]></title>
+    <link href="http://davrandom.github.io/blog/2012/01/26/webos-goes-gradually-open-source/"/>
+    <updated>2012-01-26T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/01/26/webos-goes-gradually-open-source</id>
+    <content type="html"><![CDATA[<p>(read here!) &ldquo;Interesting news on WebOS `open sourcing' schedule!&rdquo;:<a href="https://www.linux.com/news/featured-blogs/158-jim-zemlin/539566-hp-releaess-more-details-on-the-open-sourcing-of-webos">https://www.linux.com/news/featured-blogs/158-jim-zemlin/539566-hp-releaess-more-details-on-the-open-sourcing-of-webos</a></p>
+
+<p>!<a href="http://www.paldan.it/wp-content/uploads/2011/12/palm_webos_450.jpg!">http://www.paldan.it/wp-content/uploads/2011/12/palm_webos_450.jpg!</a></p>
+]]></content>
+  </entry>
+  
+</feed>

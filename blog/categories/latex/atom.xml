@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Latex | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/latex/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Texmaker Can't Find Dictionary]]></title>
+    <link href="http://davrandom.github.io/blog/2013/06/22/texmaker-can-t-find-dictionary/"/>
+    <updated>2013-06-22T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2013/06/22/texmaker-can-t-find-dictionary</id>
+    <content type="html"><![CDATA[<p>Today I am &mdash;desperately&mdash; writing a report. I have time until midnight.
+Obviously I have to work from home, with a different pc. And obviously I&rsquo;m running into some missing pieces ;)</p>
+
+<p>First problem, Texmaker complains about missing dictionary.
+Googling around I found two interesting pages:
+&ldquo;Texmaker Error : Can’t open the dictionary&rdquo;:<a href="http://copiancestral.wordpress.com/2012/02/13/texmaker-error-cant-open-the-dictionary/">http://copiancestral.wordpress.com/2012/02/13/texmaker-error-cant-open-the-dictionary/</a> by <em>copiancestral</em>
+&ldquo;Configuring the spell checker&rdquo;:<a href="http://www.xm1math.net/texmaker/doc.html#SECTION03">http://www.xm1math.net/texmaker/doc.html#SECTION03</a></p>
+
+<p>Carefully brewing the two I found my solution.</p>
+
+<p>h3. First: locate your dictionary .aff</p>
+
+<p>(You need findutils installed)
+So type in your terminal</p>
+
+<p>bc. locate *.aff</p>
+
+<p>You should get a list of dictionaries like this (depending on your installation):</p>
+
+<p>bc. elijah@seldon:~$ locate *.aff
+/usr/share/hunspell/en_AU.aff
+/usr/share/hunspell/en_GB.aff
+/usr/share/hunspell/en_US.aff
+/usr/share/hunspell/en_ZA.aff
+/usr/share/hunspell/es.aff
+/usr/share/hunspell/it_IT.aff
+/usr/share/myspell/dicts/en-GB.aff
+/usr/share/myspell/dicts/en_GB.aff
+/usr/share/myspell/dicts/en_ZA.aff
+/usr/share/myspell/dicts/it-IT.aff
+/usr/share/myspell/dicts/it_IT.aff</p>
+
+<p>If not you have to install the desired myspell dictionary with your preferred package manager.</p>
+
+<p>h3. Then: tell Texmaker where to find the correct .aff file</p>
+
+<p>Open <em>Configure Texmaker</em> > <em>Editor</em> > <em>Spelling dictionary</em> and put the path to the desired <em>.aff file</em>.
+It should work now.</p>
+]]></content>
+  </entry>
+  
+</feed>

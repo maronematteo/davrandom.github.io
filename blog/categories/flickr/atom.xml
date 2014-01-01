@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Flickr | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/flickr/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Documerica on Flickr]]></title>
+    <link href="http://davrandom.github.io/blog/2012/04/07/documerica-on-flickr/"/>
+    <updated>2012-04-07T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/04/07/documerica-on-flickr</id>
+    <content type="html"><![CDATA[<p>While surfing around the web, I found this interesting &ldquo;photgraphic project:&rdquo;:<a href="http://www.flickr.com/photos/usnationalarchives/sets/72157620856436476/">http://www.flickr.com/photos/usnationalarchives/sets/72157620856436476/</a> &lt;txp:article_image /></p>
+
+<p>&ldquo;For the Documerica Project (1971-1977), the Environmental Protection Agency (EPA) hired freelance photographers to capture images relating to environmental problems, EPA activities, and everyday life in the 1970s.</p>
+
+<p>The U.S. National Archives digitized more than 15,000 photographs from the series Documerica (Local ID 412-DA) and included them in our online catalog."</p>
+]]></content>
+  </entry>
+  
+</feed>

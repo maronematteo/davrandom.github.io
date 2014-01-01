@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Cinema | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/cinema/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Some Nice Pictures From Blade Runner Backstage]]></title>
+    <link href="http://davrandom.github.io/blog/2012/04/08/some-nice-pictures-from-blade-runner-backstage/"/>
+    <updated>2012-04-08T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/04/08/some-nice-pictures-from-blade-runner-backstage</id>
+    <content type="html"><![CDATA[<p>Maybe you never hear about british magazine HUH, but their website is quite nice and talks about art and culture in general (music, video, photographs, &hellip;).</p>
+
+<p>In a quite dated post, they published some nice &ldquo;Polaroids from Blade Runner backstage,&rdquo;:<a href="http://www.huhmagazine.co.uk/view_article.php?id=2140">http://www.huhmagazine.co.uk/view_article.php?id=2140</a> have a look!</p>
+
+<p>&lt;txp:article_image /></p>
+]]></content>
+  </entry>
+  
+</feed>

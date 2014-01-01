@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Collage | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/collage/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Photo Collage on Linux]]></title>
+    <link href="http://davrandom.github.io/blog/2012/02/02/photo-collage-on-linux/"/>
+    <updated>2012-02-02T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/02/02/photo-collage-on-linux</id>
+    <content type="html"><![CDATA[<p>I was struggling searching for a software that made a collage from my pictures, mimicking a photo&hellip; and today I succeeded:</p>
+
+<p>!<a href="http://scaini.org/site/images/5t.jpg?1328191695!:http://scaini.org/site/images/5.jpg">http://scaini.org/site/images/5t.jpg?1328191695!:http://scaini.org/site/images/5.jpg</a></p>
+
+<p>It&rsquo;s not really something to be proud but it&rsquo;s indeed a starting point.
+The instructions are well described &ldquo;here&rdquo;:<a href="http://linuxaria.com/article/photo-collage-mosaic-linux?lang=en">http://linuxaria.com/article/photo-collage-mosaic-linux?lang=en</a> .</p>
+
+<p><em>As an example:</em>
+to prepare the pictures</p>
+
+<pre> $ metapixel-prepare -r sourcefolder destinationfolder --width=48 --height=48 </pre>
+
+
+<p>to create the mosaic</p>
+
+<pre> $ metapixel --metapixel input.jpg output.png -l destinationfolder -s 10 </pre>
+
+
+<p>there are many options you can add. Try typing <em>metapixel</em> in your bash :)</p>
+
+<p>ps: the &ldquo;picture&rdquo;:<a href="http://www.flickr.com/photos/davrandom/6806261137/in/photostream">http://www.flickr.com/photos/davrandom/6806261137/in/photostream</a> is taken from my &ldquo;flickr account&rdquo;:<a href="http://www.flickr.com/photos/davrandom/">http://www.flickr.com/photos/davrandom/</a></p>
+]]></content>
+  </entry>
+  
+</feed>

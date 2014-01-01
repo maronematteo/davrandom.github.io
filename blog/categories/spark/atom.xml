@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Spark | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/spark/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[News on Spark Device]]></title>
+    <link href="http://davrandom.github.io/blog/2012/02/03/news-on-spark-device/"/>
+    <updated>2012-02-03T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/02/03/news-on-spark-device</id>
+    <content type="html"><![CDATA[<p>bq. <em>Q: Will it blend?</em>
+A: Yes, though this does void the warranty.</p>
+
+<p>h2. Aaron Seigo &ldquo;answers some questions&rdquo;:<a href="http://aseigo.blogspot.com/2012/02/spark-answers.html">http://aseigo.blogspot.com/2012/02/spark-answers.html</a> about &ldquo;Spark&rdquo;:<a href="http://aseigo.blogspot.com/2012/01/reveal.html">http://aseigo.blogspot.com/2012/01/reveal.html</a> .</p>
+
+<p>??<em>Q: When can I buy one?</em>??
+??A: Pre-order registration will open early next week. This was one piece in the puzzle that was taking a bit longer than I had hoped for to come together, but it&rsquo;s finally slotted in and our distribution partner has got the necessary infrastructure settled. I&rsquo;ll lift the veil off of the pre-order and our distribution strategy when it goes live.??</p>
+
+<p>??<em>Q: When will Spark start shipping?</em>??
+??A: We expect to start shipping Sparks to you starting in May 2012. We have a lot of pieces to coordinate, and not just technical issues like the OS image and the content add-on store, but things like packaging design, manufacturing, shipping, import, retail channel coordination. So far we&rsquo;re on track, but I don&rsquo;t want to offer a more precise date than &ldquo;May&rdquo; until we pull the trigger on production.??</p>
+
+<p>I consider it as an interesting device, especially because I would like to install something like Navit&hellip; but:</p>
+
+<p>??<em>Q: Can I get one with built-in 3G and GPS?</em>??
+??A: Not in the first run of devices. We do plan on providing Spark models with 3G (BYOS: Bring your own SIM. ;) and GPS later.??</p>
+
+<p>&hellip;so I&rsquo;ll wait :D</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Textpattern | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/textpattern/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:54:13+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to Show a Teaser/excerpt in Textpattern]]></title>
+    <link href="http://davrandom.github.io/blog/2012/06/14/how-to-show-a-teaser-excerpt-in-textpattern/"/>
+    <updated>2012-06-14T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/06/14/how-to-show-a-teaser-excerpt-in-textpattern</id>
+    <content type="html"><![CDATA[<p>My last post was a bit long, so I searched for a way of showing a teaser in textpattern.
+While in Drupal generating a teaser is more or less easy (it&rsquo;s more difficult to remove it with its &ldquo;read more&rdquo; link&hellip; I will talk about this somewhere in the future), in textpattern the information is a bit fragmented and spread in forums, plugins collections &hellip; but the easiest solution is always under your nose.</p>
+
+<p>&ldquo;Here you are the guide.&rdquo;:<a href="http://textpattern.com/faq/24/how-do-i-show-only-an-excerpt-in-article-lists">http://textpattern.com/faq/24/how-do-i-show-only-an-excerpt-in-article-lists</a>
+It&rsquo;s not as straightforward as you might desire, but it works!
+HTH
+d</p>
+]]></content>
+  </entry>
+  
+</feed>
