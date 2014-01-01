@@ -211,10 +211,6 @@
         <lastmod>2014-01-01T19:59:53+01:00</lastmod>
     </url>
     <url>
-        <loc>http://davrandom.github.io/blog/2013/06/26/about-me/</loc>
-        <lastmod>2014-01-01T21:33:48+01:00</lastmod>
-    </url>
-    <url>
         <loc>http://davrandom.github.io/blog/2013/06/26/trips-viaggi/</loc>
         <lastmod>2014-01-01T19:56:02+01:00</lastmod>
     </url>
@@ -233,5 +229,17 @@
     <url>
         <loc>http://davrandom.github.io/blog/archives/</loc>
         <lastmod>2014-01-01T21:35:10+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://davrandom.github.io/trips/</loc>
+        <lastmod>2014-01-01T22:42:28+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://davrandom.github.io/trips/auto.html</loc>
+        <lastmod>2014-01-01T22:33:43+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://davrandom.github.io/about-me/</loc>
+        <lastmod>2014-01-01T22:22:36+01:00</lastmod>
     </url>
 </urlset>

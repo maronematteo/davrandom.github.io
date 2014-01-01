@@ -4,7 +4,7 @@
   <title><![CDATA[/dav/random]]></title>
   <link href="http://davrandom.github.io/atom.xml" rel="self"/>
   <link href="http://davrandom.github.io/"/>
-  <updated>2014-01-01T21:54:13+01:00</updated>
+  <updated>2014-01-01T22:47:46+01:00</updated>
   <id>http://davrandom.github.io/</id>
   <author>
     <name><![CDATA[davrandom]]></name>
@@ -80,38 +80,6 @@ With Andrea M. and Rolando.<br />
 <p><a href="http://goo.gl/maps/8bvrI">Map</a></p>
 <h4>Vajont and Monte Pelmo</h4>
 <p><a href="http://goo.gl/maps/jAAln">Map</a></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[About Me]]></title>
-    <link href="http://davrandom.github.io/blog/2013/06/26/about-me/"/>
-    <updated>2013-06-26T00:00:00+02:00</updated>
-    <id>http://davrandom.github.io/blog/2013/06/26/about-me</id>
-    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://scaini.org/site/images/18t.jpg?1351803829" alt="" /><br />
-picture by <a href="http://www.flickr.com/photos/superben155">Superben,</a> thanks!</p>
-<p>I&#8217;m <strong>interested</strong> in <em>open source, i.e. <span class="caps">GNU</span>/Linux, open hardware (openmoko, arduino, &#8230;), open mapping (openstreetmap),  &#8230; in music, acoustics, photography, motorbikes, traveling around, <span class="caps">DIY</span>, &#8230;</em></p>
-<p>I have a <a href="http://en.wikipedia.org/wiki/Master%27s_degree">M.Sc.</a> in <a href="http://en.wikipedia.org/wiki/Particle_physics">particle physics</a> from <a href="http://df.units.it/?q=en">University of Trieste (Italy).</a></p>
-<p>Now I&#8217;m enrolled at <a href="http://www.upf.edu/en/"><span class="caps">UPF</span></a> for a <a href="http://en.wikipedia.org/wiki/Doctor_of_Philosophy">Ph.D.</a> in <a href="http://www.upf.edu/dtic/en/">Information and Communication Technologies.</a> Meanwhile I work in a non-profit foundation called <a href="http://www.barcelonamedia.org/">Barcelona Media.</a></p>
-<hr>
-<p>This is not a newspaper, it&#8217;s a blog, free and open. If you want to collaborate (surrender or resist) just comment here&#8230; I will contact you directly.</p>
-<p>I am not responsible for reader&#8217;s comments.<br />
-<hr></p>
-<p>Documents:</p>
-<ul>
-	<li>My Master&#8217;s thesis <strong>`Study of the associated production of a Z boson and hadronic jets in proton-proton collisions at the <span class="caps">CMS</span> experiment&#8217;</strong> (<a href="http://www.infn.it/thesis/thesis_dettaglio.php?tid=5970">on <span class="caps">INFN</span> official website</a>)</li>
-	<li>My Bachelor&#8217;s thesis <strong>`Una tecnica di calibrazione con elettroni isolati per il calorimetro elettromagnetico di CMS&#8217;</strong> (<a href="http://www.infn.it/thesis/thesis_dettaglio.php?tid=2644">on <span class="caps">INFN</span> official website</a>) (<a href="http://scaini.org/site/file_download/12/tesi.pdf">or download from here</a>)</li>
-	<li><strong>`Layout Remapping Tool for Multichannel Audio Productions´</strong> <br />
-<em>Authors</em>: Schmele, Tim; García-Garzón, David; Sayin, Umut; Scaini, Davide; Arteaga, Daniel. <a href="http://www.aes.org/e-lib/browse.cfm?elib=16807">Published</a> in <span class="caps">AES</span> 134th Convention.</li>
-</ul>
-<p>Public Code:</p>
-<ul>
-	<li><span class="caps">ATM</span> my public code is very limited (for several reasons). In <a href="https://bitbucket.org/davrandom/misc_projects/src">this repository</a> I collect some files that I find useful (configuration files or nano-projects).<br />
-This might not be useful for other people, but after few times I forgot/lost code around, I simply decided that it&#8217;s better to publish it.</li>
-</ul>
-<p>Presentations:</p>
-<ul>
-	<li><span class="caps">TBD</span></li>
-</ul>]]></content>
   </entry>
   
   <entry>
@@ -496,6 +464,19 @@ Ci arriva un bel piattone ovale con una quantità di carne adeguata alla nostra 
 <p>Siamo sufficientemente sazi che non prendiamo altro. Gli austrici se ne vanno facendo gran feste al biondo. Anche noi ce ne andiamo è il momento del conto &#8230; 200kn meno di 30€, &#8220;prezzo per amici!&#8221;<br />
 Ringraziamo lui e il dio che ci ha protetto e andiamo a nanna felici. Domani si torna a casa, pustole e febbre permettendo.</p>
 <p>E fu sera e fu mattina, il sole splende come prima. Ci svegliamo e le pustole sono moltiplicate, ne ho molte in testa e &#8220;finalmente&#8221; anche in faccia. Non sono un fiore decisamente. Decidiamo un piano d&#8217;attacco e ce ne atteniamo. &#8220;Dopo il pranzo partiamo e con la calma, prendendo la strada più breve ;)&#8221; E così si fa. Come saliamo in moto e ci dirigiamo verso casa mi sento meglio. È bello andare in moto, anche in due e piuttosto carchi è divertente e rilassante. Facciamo una sola sosta in un parcheggio sotto degli alberi, e sono proprio felice! Finalmente abbiamo fatto un viaggio in due in moto. Mi sembra incredibile, conoscendo Lei&#8230; certo non è stato esattamente come lo sognavamo&#8230; ma sappiamo che si può fare, che è alla nostra portata.</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to Show a Teaser/excerpt in Textpattern]]></title>
+    <link href="http://davrandom.github.io/blog/2012/06/14/how-to-show-a-teaser-excerpt-in-textpattern/"/>
+    <updated>2012-06-14T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/06/14/how-to-show-a-teaser-excerpt-in-textpattern</id>
+    <content type="html"><![CDATA[<p>My last post was a bit long, so I searched for a way of showing a teaser in textpattern.<br />
+While in Drupal generating a teaser is more or less easy (it&#8217;s more difficult to remove it with its &#8220;read more&#8221; link&#8230; I will talk about this somewhere in the future), in textpattern the information is a bit fragmented and spread in forums, plugins collections &#8230; but the easiest solution is always under your nose.</p>
+<p><a href="http://textpattern.com/faq/24/how-do-i-show-only-an-excerpt-in-article-lists">Here you are the guide.</a><br />
+It&#8217;s not as straightforward as you might desire, but it works!<br />
+<span class="caps">HTH</span><br />
+d</p>]]></content>
   </entry>
   
 </feed>
