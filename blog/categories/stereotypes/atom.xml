@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Stereotypes | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/stereotypes/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:37:04+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Stereotypes]]></title>
+    <link href="http://davrandom.github.io/blog/2012/02/09/stereotypes/"/>
+    <updated>2012-02-09T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/02/09/stereotypes</id>
+    <content type="html"><![CDATA[<p>When we in Europe think about the American people, we have almost this idea:</p>
+
+<p>&lt;txp:arc_youtube video=&ldquo;<a href="http://youtu.be/KMmqqKV49cg">http://youtu.be/KMmqqKV49cg</a>&rdquo; width=&ldquo;500&rdquo; ratio=&ldquo;16:9&rdquo; /></p>
+]]></content>
+  </entry>
+  
+</feed>

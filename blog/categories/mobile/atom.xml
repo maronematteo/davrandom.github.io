@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Mobile | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/mobile/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:37:04+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tizen Developer Conference and Their Prototype Phone]]></title>
+    <link href="http://davrandom.github.io/blog/2012/05/15/tizen-developer-conference-and-their-prototype-phone/"/>
+    <updated>2012-05-15T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/05/15/tizen-developer-conference-and-their-prototype-phone</id>
+    <content type="html"><![CDATA[<p>Something is happening there at Tizen&rsquo;s place.</p>
+
+<p>On 30th April they released the &ldquo;1.0 SDK (software development kit) and the source code.&rdquo;:<a href="https://www.tizen.org/blogs/tsg/2012/tizen-1.0-larkspur">https://www.tizen.org/blogs/tsg/2012/tizen-1.0-larkspur</a>  Together with this release an interesting challenge has been made public: the &ldquo;Tizen Developer Contest.&rdquo;:<a href="https://www.tizen.org/blogs/jabancroft/2012/announcing-tizen-developer-contest-intel">https://www.tizen.org/blogs/jabancroft/2012/announcing-tizen-developer-contest-intel</a></p>
+
+<p>And more!
+At &ldquo;Tizen Developer Conference&rdquo;:<a href="https://www.tizen.org/conference">https://www.tizen.org/conference</a> (7-9 May 2012 &ndash; San Francisco) Samsung offered a prototype to the conference attendees. &ldquo;Read more at Endgadget!&rdquo;:<a href="http://www.engadget.com/2012/05/08/tizen-developer-phone-appears-complete-with-4-3-inch-screen-and">http://www.engadget.com/2012/05/08/tizen-developer-phone-appears-complete-with-4-3-inch-screen-and</a></p>
+
+<p>&lt;txp:arc_youtube video=&ldquo;<a href="http://youtu.be/rJ1y7CpIaVA">http://youtu.be/rJ1y7CpIaVA</a>&rdquo; width=&ldquo;500&rdquo; ratio=&ldquo;16:9&rdquo; /></p>
+
+<p>Together with Boot-to Gecko (B2G) new and promising open-source platforms (and hopefully devices) will be available very soon.
+Bye
+d</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Howto | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/howto/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:37:04+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Check Jekyll Builds]]></title>
+    <link href="http://davrandom.github.io/blog/2013/12/26/checking-jekyll-build/"/>
+    <updated>2013-12-26T23:40:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2013/12/26/checking-jekyll-build</id>
+    <content type="html"><![CDATA[<h1>How to check if jekyll builds</h1>
+
+<p>How to check if jekyll builds before pushing to your github pages.</p>
+
+<p><code>jekyll build --safe --trace</code></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Texmaker Can't Find Dictionary]]></title>
+    <link href="http://davrandom.github.io/blog/2013/06/22/texmaker-can-t-find-dictionary/"/>
+    <updated>2013-06-22T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2013/06/22/texmaker-can-t-find-dictionary</id>
+    <content type="html"><![CDATA[<p>Today I am &mdash;desperately&mdash; writing a report. I have time until midnight.
+Obviously I have to work from home, with a different pc. And obviously I&rsquo;m running into some missing pieces ;)</p>
+
+<p>First problem, Texmaker complains about missing dictionary.
+Googling around I found two interesting pages:
+&ldquo;Texmaker Error : Can’t open the dictionary&rdquo;:<a href="http://copiancestral.wordpress.com/2012/02/13/texmaker-error-cant-open-the-dictionary/">http://copiancestral.wordpress.com/2012/02/13/texmaker-error-cant-open-the-dictionary/</a> by <em>copiancestral</em>
+&ldquo;Configuring the spell checker&rdquo;:<a href="http://www.xm1math.net/texmaker/doc.html#SECTION03">http://www.xm1math.net/texmaker/doc.html#SECTION03</a></p>
+
+<p>Carefully brewing the two I found my solution.</p>
+
+<p>h3. First: locate your dictionary .aff</p>
+
+<p>(You need findutils installed)
+So type in your terminal</p>
+
+<p>bc. locate *.aff</p>
+
+<p>You should get a list of dictionaries like this (depending on your installation):</p>
+
+<p>bc. elijah@seldon:~$ locate *.aff
+/usr/share/hunspell/en_AU.aff
+/usr/share/hunspell/en_GB.aff
+/usr/share/hunspell/en_US.aff
+/usr/share/hunspell/en_ZA.aff
+/usr/share/hunspell/es.aff
+/usr/share/hunspell/it_IT.aff
+/usr/share/myspell/dicts/en-GB.aff
+/usr/share/myspell/dicts/en_GB.aff
+/usr/share/myspell/dicts/en_ZA.aff
+/usr/share/myspell/dicts/it-IT.aff
+/usr/share/myspell/dicts/it_IT.aff</p>
+
+<p>If not you have to install the desired myspell dictionary with your preferred package manager.</p>
+
+<p>h3. Then: tell Texmaker where to find the correct .aff file</p>
+
+<p>Open <em>Configure Texmaker</em> > <em>Editor</em> > <em>Spelling dictionary</em> and put the path to the desired <em>.aff file</em>.
+It should work now.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to Show a Teaser/excerpt in Textpattern]]></title>
+    <link href="http://davrandom.github.io/blog/2012/06/14/how-to-show-a-teaser-excerpt-in-textpattern/"/>
+    <updated>2012-06-14T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/06/14/how-to-show-a-teaser-excerpt-in-textpattern</id>
+    <content type="html"><![CDATA[<p>My last post was a bit long, so I searched for a way of showing a teaser in textpattern.
+While in Drupal generating a teaser is more or less easy (it&rsquo;s more difficult to remove it with its &ldquo;read more&rdquo; link&hellip; I will talk about this somewhere in the future), in textpattern the information is a bit fragmented and spread in forums, plugins collections &hellip; but the easiest solution is always under your nose.</p>
+
+<p>&ldquo;Here you are the guide.&rdquo;:<a href="http://textpattern.com/faq/24/how-do-i-show-only-an-excerpt-in-article-lists">http://textpattern.com/faq/24/how-do-i-show-only-an-excerpt-in-article-lists</a>
+It&rsquo;s not as straightforward as you might desire, but it works!
+HTH
+d</p>
+]]></content>
+  </entry>
+  
+</feed>

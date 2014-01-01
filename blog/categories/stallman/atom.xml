@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Stallman | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/stallman/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:37:04+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Richard Stallman: All Proprietary Software Are Malicious]]></title>
+    <link href="http://davrandom.github.io/blog/2012/03/10/richard-stallman-all-proprietary-software-are-malicious/"/>
+    <updated>2012-03-10T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/03/10/richard-stallman-all-proprietary-software-are-malicious</id>
+    <content type="html"><![CDATA[<p>h2. &ldquo;GNU founder Stallman exhorts Madras (India) students to fight against proprietary software&rdquo;:<a href="http://ibnlive.in.com/news/all-proprietary-software-are-malicious-stallman/227811-60-120.html">http://ibnlive.in.com/news/all-proprietary-software-are-malicious-stallman/227811-60-120.html</a></p>
+
+<p>bq. All proprietary software are malicious</p>
+
+<p>[&hellip;] &lsquo;Addressing a packed hall at IIT Madras, the founder of GNU project said that by using such “non-free” software, people were in danger of being entrapped in a moral dilemma as they are forced to comply with the end-user agreements.&rsquo; [&hellip;]</p>
+]]></content>
+  </entry>
+  
+</feed>

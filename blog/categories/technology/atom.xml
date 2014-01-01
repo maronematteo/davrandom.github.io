@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Technology | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/technology/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:37:04+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Opensource Watch]]></title>
+    <link href="http://davrandom.github.io/blog/2012/04/18/opensource-watch/"/>
+    <updated>2012-04-18T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/04/18/opensource-watch</id>
+    <content type="html"><![CDATA[<p>p=. !{width: 100px;}<a href="https://estore.ti.com/Assets/AU2004-22-March-2012.jpg!">https://estore.ti.com/Assets/AU2004-22-March-2012.jpg!</a></p>
+
+<p>&ldquo;MetaWatch&rdquo;:<a href="http://www.metawatch.org">http://www.metawatch.org</a> is an opensource operated watch. But as you might guess this is not only a &ldquo;simple&rdquo; watch: it&rsquo;s a MetaWatch. Ok&hellip; this was obvious from its name, but what does this mean? It means that the watch is a layer between you and your smartphone.</p>
+
+<p>p=. !<a href="http://scaini.org/site/images/15t.png?1334742326!:http://www.metawatch.org/developers/">http://scaini.org/site/images/15t.png?1334742326!:http://www.metawatch.org/developers/</a></p>
+
+<p>The Meta Watch platforms utilize embedded Bluetooth® technology to connect to smartphones, mobile devices and other Bluetooth enabled devices. The Meta Watch platform is based on the MSP430F5438A MSP430™ ultra-low-power microcontroller and CC2560 Bluetooth host controller solution from Texas Instruments Incorporated (TI).</p>
+
+<p>Interesting! (for those who have a smartphone)</p>
+]]></content>
+  </entry>
+  
+</feed>

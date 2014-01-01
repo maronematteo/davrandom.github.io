@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://davrandom.github.io/sitemap.xml 

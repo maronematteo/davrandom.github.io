@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Linux | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/linux/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:37:04+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Speech Recognition Under Linux]]></title>
+    <link href="http://davrandom.github.io/blog/2012/05/16/speech-recognition-under-linux/"/>
+    <updated>2012-05-16T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/05/16/speech-recognition-under-linux</id>
+    <content type="html"><![CDATA[<p>(preamble: I do many things over the web every day, search for solutions, find solutions, implement solutions&hellip; then I forget everything. So some posts like this are just a collection of things for future memory)</p>
+
+<p>I was searching for something like Dragon Naturally Speaking under Linux&hellip; well this doesn&rsquo;t seem to exist yet (apart from running DNS under wine). If you have different information please comment.</p>
+
+<p>I found this &ldquo;nice article on Archlinux wiki&rdquo;:<a href="https://wiki.archlinux.org/index.php/Speech_Recognition#Speech_Recognition">https://wiki.archlinux.org/index.php/Speech_Recognition#Speech_Recognition</a> with a nice list divided by types of speech recognition (copying from there):</p>
+
+<ul>
+<li><p><em>Text-To-Speech</em> As it sounds, Text-To-Speech (or TTS) will manipulate a string of text into an audio clip. There are several programs available that perform TTS, some of which are command-line based (ideal for scripting) and others which provide a handy GUI.</p></li>
+<li><p><em>Simple Voice Control/Commands</em> This is the most basic form of Speech-To-Text application. These are designed to recognize a small number of specific, typically one-word commands and then perform an action. This is often used as an alternative to an application launcher, allowing the user for instance to say the word &ldquo;firefox&rdquo; and have his OS open a new browser window.</p></li>
+<li><p><em>Full dictation/recognition</em> Full dictation/recognition software allows the user to read full sentences or paragraphs and translates that data into text on the fly. This could be used, for instance, to dictate an entire letter into the window of an email client. In some cases, these types of applications need to be trained to your voice and can improve in accuracy the more they are used.</p></li>
+</ul>
+
+
+<p>I am mostly interested in the last one &hellip; from what I can understand none of them is yet completely working (in the sense of DNS does).
+I downloaded &ldquo;Simon&rdquo;:<a href="http://simon-listens.org/">http://simon-listens.org/</a> but not tried yet. From what I can see &ldquo;here&rdquo;:<a href="http://simon-listens.blogspot.it/2012/05/simon-usability.html">http://simon-listens.blogspot.it/2012/05/simon-usability.html</a> they&rsquo;re at 0.3.80 release while &ldquo;here&rdquo;:<a href="http://sourceforge.net/projects/speech2text/">http://sourceforge.net/projects/speech2text/</a> you can download the 0.3.0 version&hellip; guess some svn/git compiling is required to obtain the most recent version.</p>
+
+<p>Quoting from &ldquo;here:&rdquo;:<a href="http://en.wikipedia.org/wiki/Speech_recognition_in_Linux">http://en.wikipedia.org/wiki/Speech_recognition_in_Linux</a>
+&ldquo;Recently, there has been a push to get a high-quality native GNU/Linux speech recognition engine developed. As a result, numerous projects dedicated to creating GNU/Linux speech recognition solutions were established. One major hurdle is the compilation of a speech corpus to enable production of acoustic models. In response, VoxForge, which aims to collect transcribed speech for the use with free and open-source speech recognition engines under the GPL license, was set up.&rdquo;
+<em>(This wiki article is far from perfect&hellip; but these few lines are ok)</em></p>
+
+<p>I gave a look also to &ldquo;VoxForge&rdquo;:<a href="http://www.voxforge.org/">http://www.voxforge.org/</a> and it&rsquo;s a project to <em>collect</em> transcribed speech, to build up open source &ldquo;speech libraries&rdquo; (&ldquo;speech corpus&rdquo;:<a href="http://www.voxforge.org/home/docs/faq/faq/what-is-a-speech-corpus-or-speech-corpora">http://www.voxforge.org/home/docs/faq/faq/what-is-a-speech-corpus-or-speech-corpora</a>). So this is only a piece of what I&rsquo;m searching for, but it&rsquo;s important to mention that <em>everyone can help this project simply reading some text</em>&hellip; &ldquo;checkout here.&rdquo;:<a href="http://www.voxforge.org/home/read">http://www.voxforge.org/home/read</a></p>
+
+<p><em>Has anyone there an experience with OSS software doing full dictation/recognition?</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Czech Municipality Uses Open Source for Nearly Everything]]></title>
+    <link href="http://davrandom.github.io/blog/2012/04/19/czech-municipality-uses-open-source-for-nearly-everything/"/>
+    <updated>2012-04-19T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/04/19/czech-municipality-uses-open-source-for-nearly-everything</id>
+    <content type="html"><![CDATA[<p>Quoting from &ldquo;here:&rdquo;:<a href="https://joinup.ec.europa.eu/news/czech-municipality-uses-open-source-nearly-everything">https://joinup.ec.europa.eu/news/czech-municipality-uses-open-source-nearly-everything</a></p>
+
+<p>??In the Czech municipality of Grygov open source is used almost everywhere. It covers most of the applications used by the administration, offers public Internet access across the entire village and it is the basis for an SMS gateway linking the regional fire department with the volunteers in the village. The software even keeps parents up to date on changes in school schedules.??</p>
+
+<p>&ldquo;Read more there.&rdquo;:<a href="https://joinup.ec.europa.eu/news/czech-municipality-uses-open-source-nearly-everything">https://joinup.ec.europa.eu/news/czech-municipality-uses-open-source-nearly-everything</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[From Ogg to Avi With a Simple Script]]></title>
+    <link href="http://davrandom.github.io/blog/2012/04/17/from-ogg-to-avi-with-a-simple-script/"/>
+    <updated>2012-04-17T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/04/17/from-ogg-to-avi-with-a-simple-script</id>
+    <content type="html"><![CDATA[<p>A strange thing is that avidemux works with many video and audio formats, but not our beloved ogg. So some time ago searching around the web for a method to convert a ogg into some avi format and I found a small script. Since data corruption si always possible, I post the solution to the web for future memory.</p>
+
+<p>If you want to <em>convert only one file at time</em></p>
+
+<p>bc. mencoder oggfilename.ogg -ovc xvid -oac mp3lame -xvidencopts pass=1 -o avifilename.avi</p>
+
+<p>If you want to <em>convert a batch of files</em></p>
+
+<p>bc. #!/bin/bash <br></p>
+
+<h1>ogv to avi <br></h1>
+
+<h1>Call this with multiple arguments <br></h1>
+
+<h1>for example : ls *.{ogv,OGV} | xargs ogv2avi <br></h1>
+
+<p>N=$#; <br>
+echo &ldquo;Converting $N files !&rdquo; <br>
+for ((i=0; i&lt;=(N-1); i++)) <br>
+do <br>
+echo &ldquo;converting&rdquo; $1 <br>
+filename=${1%.*} <br>
+mencoder &ldquo;$1&rdquo; -ovc xvid -oac mp3lame -xvidencopts pass=1 -o $filename.avi <br>
+shift 1 <br>
+done</p>
+
+<p>where ogv2avi is the name of this script. (If its usage is not obvious, just ask)</p>
+
+<p>Note: This is not my product, so the credit goes to someone else (don&rsquo;t know who&hellip; I found this some years ago).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[News on Spark Device]]></title>
+    <link href="http://davrandom.github.io/blog/2012/02/03/news-on-spark-device/"/>
+    <updated>2012-02-03T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/02/03/news-on-spark-device</id>
+    <content type="html"><![CDATA[<p>bq. <em>Q: Will it blend?</em>
+A: Yes, though this does void the warranty.</p>
+
+<p>h2. Aaron Seigo &ldquo;answers some questions&rdquo;:<a href="http://aseigo.blogspot.com/2012/02/spark-answers.html">http://aseigo.blogspot.com/2012/02/spark-answers.html</a> about &ldquo;Spark&rdquo;:<a href="http://aseigo.blogspot.com/2012/01/reveal.html">http://aseigo.blogspot.com/2012/01/reveal.html</a> .</p>
+
+<p>??<em>Q: When can I buy one?</em>??
+??A: Pre-order registration will open early next week. This was one piece in the puzzle that was taking a bit longer than I had hoped for to come together, but it&rsquo;s finally slotted in and our distribution partner has got the necessary infrastructure settled. I&rsquo;ll lift the veil off of the pre-order and our distribution strategy when it goes live.??</p>
+
+<p>??<em>Q: When will Spark start shipping?</em>??
+??A: We expect to start shipping Sparks to you starting in May 2012. We have a lot of pieces to coordinate, and not just technical issues like the OS image and the content add-on store, but things like packaging design, manufacturing, shipping, import, retail channel coordination. So far we&rsquo;re on track, but I don&rsquo;t want to offer a more precise date than &ldquo;May&rdquo; until we pull the trigger on production.??</p>
+
+<p>I consider it as an interesting device, especially because I would like to install something like Navit&hellip; but:</p>
+
+<p>??<em>Q: Can I get one with built-in 3G and GPS?</em>??
+??A: Not in the first run of devices. We do plan on providing Spark models with 3G (BYOS: Bring your own SIM. ;) and GPS later.??</p>
+
+<p>&hellip;so I&rsquo;ll wait :D</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Photo Collage on Linux]]></title>
+    <link href="http://davrandom.github.io/blog/2012/02/02/photo-collage-on-linux/"/>
+    <updated>2012-02-02T00:00:00+01:00</updated>
+    <id>http://davrandom.github.io/blog/2012/02/02/photo-collage-on-linux</id>
+    <content type="html"><![CDATA[<p>I was struggling searching for a software that made a collage from my pictures, mimicking a photo&hellip; and today I succeeded:</p>
+
+<p>!<a href="http://scaini.org/site/images/5t.jpg?1328191695!:http://scaini.org/site/images/5.jpg">http://scaini.org/site/images/5t.jpg?1328191695!:http://scaini.org/site/images/5.jpg</a></p>
+
+<p>It&rsquo;s not really something to be proud but it&rsquo;s indeed a starting point.
+The instructions are well described &ldquo;here&rdquo;:<a href="http://linuxaria.com/article/photo-collage-mosaic-linux?lang=en">http://linuxaria.com/article/photo-collage-mosaic-linux?lang=en</a> .</p>
+
+<p><em>As an example:</em>
+to prepare the pictures</p>
+
+<pre> $ metapixel-prepare -r sourcefolder destinationfolder --width=48 --height=48 </pre>
+
+
+<p>to create the mosaic</p>
+
+<pre> $ metapixel --metapixel input.jpg output.png -l destinationfolder -s 10 </pre>
+
+
+<p>there are many options you can add. Try typing <em>metapixel</em> in your bash :)</p>
+
+<p>ps: the &ldquo;picture&rdquo;:<a href="http://www.flickr.com/photos/davrandom/6806261137/in/photostream">http://www.flickr.com/photos/davrandom/6806261137/in/photostream</a> is taken from my &ldquo;flickr account&rdquo;:<a href="http://www.flickr.com/photos/davrandom/">http://www.flickr.com/photos/davrandom/</a></p>
+]]></content>
+  </entry>
+  
+</feed>

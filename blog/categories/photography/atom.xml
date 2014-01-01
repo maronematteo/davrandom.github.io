@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Photography | /dav/random]]></title>
+  <link href="http://davrandom.github.io/blog/categories/photography/atom.xml" rel="self"/>
+  <link href="http://davrandom.github.io/"/>
+  <updated>2014-01-01T21:37:04+01:00</updated>
+  <id>http://davrandom.github.io/</id>
+  <author>
+    <name><![CDATA[davrandom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Automotive Monogamy by Matteo Ferrari (Photographer)]]></title>
+    <link href="http://davrandom.github.io/blog/2012/04/06/automotive-monogamy-by-matteo-ferrari-photographer/"/>
+    <updated>2012-04-06T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/04/06/automotive-monogamy-by-matteo-ferrari-photographer</id>
+    <content type="html"><![CDATA[<p>&hellip;This time I confess, this link comes from &ldquo;la Repubblica&rdquo;:<a href="http://milano.repubblica.it/cronaca/2012/04/04/foto/quattro_route_per_sempe-32758842/1/?ref=HRESS-7">http://milano.repubblica.it/cronaca/2012/04/04/foto/quattro_route_per_sempe-32758842/1/?ref=HRESS-7</a> ;) more or less quoting from there:
+&lt;txp:article_image /></p>
+
+<ol type="a">
+<li>&ldquo;Matteo Ferrari&rdquo;:<a href="http://www.matteoferrari.net/">http://www.matteoferrari.net/</a> is a 44-years-old italian photographer born in Liguria and now living in Milan. His project collects photographic images of Italians who, decades later, still use their old car: the first car you never forget. &ldquo;I&rsquo;ve noticed this trend and I thought to make a service. Photographing owners with the old car was a way to tell their stories without adding anything else.&rdquo; Ferrari has worked on the project since 2001 and with growing enthusiasm, and then has replicated the idea in Argentina.</li>
+</ol>
+
+
+<p>The two galleries are &ldquo;here the italian version&rdquo;:<a href="http://www.matteoferrari.net/i/0201.htm">http://www.matteoferrari.net/i/0201.htm</a> and here for &ldquo;Argentina.&rdquo;:<a href="http://www.matteoferrari.net/e/0218.htm">http://www.matteoferrari.net/e/0218.htm</a></p>
+]]></content>
+  </entry>
+  
+</feed>
