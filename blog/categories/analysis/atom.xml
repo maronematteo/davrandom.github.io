@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Analysis | /dav/random]]></title>
   <link href="http://davrandom.github.io/blog/categories/analysis/atom.xml" rel="self"/>
   <link href="http://davrandom.github.io/"/>
-  <updated>2014-01-02T11:46:58+01:00</updated>
+  <updated>2014-01-02T12:26:12+01:00</updated>
   <id>http://davrandom.github.io/</id>
   <author>
     <name><![CDATA[davrandom]]></name>
@@ -12,79 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[ROOT Packages for Debian and Ubuntu]]></title>
-    <link href="http://davrandom.github.io/blog/2013/05/29/root-packages-for-debian-and-ubuntu/"/>
-    <updated>2013-05-29T00:00:00+02:00</updated>
-    <id>http://davrandom.github.io/blog/2013/05/29/root-packages-for-debian-and-ubuntu</id>
-    <content type="html"><![CDATA[<p>h2. What is ROOT?</p>
-
-<p>&ldquo;ROOT&rdquo;:<a href="http://root.cern.ch">http://root.cern.ch</a> is a framwork for data analysis, written in C++ and developed by &ldquo;CERN.&rdquo;:<a href="http://public.web.cern.ch/public/">http://public.web.cern.ch/public/</a></p>
-
-<p>h2. What are <em>you</em> doing then?</p>
-
-<p>As you might have noticed the debian packages (debs) for ROOT in Debian and Ubuntu repositories are quite old (5.18). So what I am doing is to build a monolithic package of ROOT.</p>
-
-<p>h2. What are you <em>NOT</em> doing?</p>
-
-<p>I&rsquo;m not a ROOT developer, and I do not answer to ROOT related questions.</p>
-
-<p>h2. Some other details to know BEFORE download and installation</p>
-
-<p>The enabled ROOT plugins are: minuit2 roofit unuran tmva (if you think you need some other, just write a comment here, I&rsquo;ll provide).</p>
-
-<p><strong>Older than 5.34.07</strong> packages are going to be installed on /opt/root, to not conflict with Root package provided by Ubuntu repos.</p>
-
-<p>h2. Download</p>
-
-<p>I provide two version of ROOT package, one compiled for &ldquo;64 bits&rdquo;:<a href="http://sourceforge.net/projects/cernrootdebs/files/latest-recommended/">http://sourceforge.net/projects/cernrootdebs/files/latest-recommended/</a> and one for &ldquo;32 bits&rdquo;:<a href="http://sourceforge.net/projects/cernrootdebs/files/32bits!/">http://sourceforge.net/projects/cernrootdebs/files/32bits!/</a> processors. &ldquo;Here&rdquo;:<a href="http://sourceforge.net/projects/cernrootdebs/files">http://sourceforge.net/projects/cernrootdebs/files</a> you can find the two versions. &ldquo;The most up-to-date is the 64 bits release. Download!&rdquo;:<a href="https://sourceforge.net/projects/cernrootdebs/files/latest/download">https://sourceforge.net/projects/cernrootdebs/files/latest/download</a></p>
-
-<p>h2. Installation</p>
-
-<p>You double click on the downloaded package and Debian or Ubuntu will prompt a window&hellip; just follow the usual instructions.</p>
-
-<p>h2. Have fun!</p>
-
-<p><a href="http://sourceforge.net/donate/index.php?group_id=309830"><img src="http://images.sourceforge.net/images/project-support.jpg" width="88" height="32" border="0" alt="Support This Project" /> </a>
-If you like this packet and want to pay for my time, you are welcome ;)
-(important note: I&rsquo;m not connected to cern developers in any way. I&rsquo;m not asking for money, this package is free!)</p>
-
-<p>If you have any doubt just ask (commenting down here or at sourceforge &ldquo;here&rdquo;:<a href="https://sourceforge.net/projects/cernrootdebs/forums/forum/1106773">https://sourceforge.net/projects/cernrootdebs/forums/forum/1106773</a>)&hellip; if you need help with ROOT, read the manual :)</p>
-
-<hr>
-
-
-<p><em>just for the lazy ones:</em>
-* &ldquo;user&rsquo;s manual&rdquo;:<a href="http://root.cern.ch/drupal/content/users-guide">http://root.cern.ch/drupal/content/users-guide</a>
-* &ldquo;reference guide&rdquo;:<a href="http://root.cern.ch/drupal/content/reference-guide">http://root.cern.ch/drupal/content/reference-guide</a>
-* &ldquo;how-to&rsquo;s&rdquo;:<a href="http://root.cern.ch/drupal/content/howtos">http://root.cern.ch/drupal/content/howtos</a>
-* &ldquo;ROOT forum&rdquo;:<a href="http://root.cern.ch/phpBB3/">http://root.cern.ch/phpBB3/</a></p>
-
-<hr>
-
-
-<p>h1. for the skilled ones: &ldquo;direct link to the latest package.&rdquo;:<a href="http://sourceforge.net/projects/cernrootdebs/files/latest/download">http://sourceforge.net/projects/cernrootdebs/files/latest/download</a></p>
-
-<hr>
-
-
-<p>h2. Details</p>
-
-<p>From 5.34.01 enabled support for: asimage, astiff, builtin_afterimage, builtin_lzma, cintex, explicitlink, fftw3, fitsio, gviz, genvector, krb5, ldap, mathmore, memstat, minuit2, mysql, opengl, python, reflex, roofit, shadowpw, shared, ssl, tmva, unuran, x11, xft, xml.</p>
-
-<hr>
-
-
-<p><em>{color:red}HELP: I&rsquo;m searching for <em>TESTERS</em> of the latest builds of root. Are you interested? Comment here posting you e-mail address, I will contact you directly.</em></p>
-
-<hr>
-
-
-<p><em>do you like it? do you hate me? it simply worked?</em>
-<em>PLEASE, LEAVE A COMMENT!</em></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Latest Cern Root 5.34.03 Package for Ubuntu/Debian 64bits]]></title>
