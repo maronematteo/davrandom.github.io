@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ROOT packages for Debian and Ubuntu
-tags: []
+comments: true
 categories: en software data analysis science
 ---
 h2. What is ROOT?
