@@ -9,7 +9,9 @@
   <meta name="author" content="davrandom">
 
   
-  <meta name="description" content="(preamble: I do many things over the web every day, search for solutions, find solutions, implement solutions&#8230; then I forget everything. So &hellip;">
+  <meta name="description" content="Volevo chiamare questo articolo:
+Sul permanganato e Maga Magò (ovvero Vacanze in Croazia)
+ma sarebbe stato poco comprensibile e poco indicizzabile &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -31,6 +33,18 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-46962893-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
 
 </head>
 
@@ -71,49 +85,6 @@
     <div id="content">
       <div class="blog-index">
   
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/08/04/linux-mint-debian-edition-su-dell-xps-studio/">Linux Mint Debian Edition Su Dell Xps Studio</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-08-04T00:00:00+02:00" pubdate data-updated="true"></time>
-        
-      </p>
-    
-
-  </header>
-
-
-  <div class="entry-content"><p>(preamble: I do many things over the web every day, search for solutions, find solutions, implement solutions&#8230; then I forget everything. So some posts like this are just a collection of things for future memory)</p>
-<p>Avevo già provato a installare <span class="caps">LMDE</span> sul mio portatile, ma mi dava kernel panic all&#8217;avvio. Facendo partire la modalità &#8220;compatibility mode&#8221; la live invece si avvia. Ho guardato un po&#8217; le opzoni al boot che ha questa modalità&#8230;</p>
-<p><strong>Soluzione:</strong><br />
-Se avete una Mint o una <span class="caps">LMDE</span> che va in kernel panic all&#8217;avvio provate aggiungendo nelle opzioni di boot</p>
-<pre><code>acpi=off</code></pre>
-<p>Installate <span class="caps">LMDE</span> e poi avviatela dal vostro disco ricordandovi di nuovo di aggiungere questa opzione tra le opzioni di boot. Installate i drivers nvidia e generate il file di configurazione con nvidia-xconfig. RIavviate&#8230; ma <span class="caps">NON</span> mettete l&#8217;opzione acpi=off perché altrimenti non verrà rilevato il display e non partirà X. L&#8217;opzione corretta da mettere è</p>
-<pre><code>noapic</code></pre>
-<p>Dovrebbe funzionare.</p></div>
-  
-  
-
-
-    </article>
   
   
     <article>
@@ -414,6 +385,49 @@ I downloaded <a href="http://simon-listens.org/">Simon</a> but not tried yet. Fr
 
     </article>
   
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/05/15/tizen-developer-conference-and-their-prototype-phone/">Tizen Developer Conference and Their Prototype Phone</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-05-15T00:00:00+02:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+
+  </header>
+
+
+  <div class="entry-content"><p>Something is happening there at Tizen&#8217;s place.</p>
+<p>On 30th April they released the <a href="https://www.tizen.org/blogs/tsg/2012/tizen-1.0-larkspur">1.0 <span class="caps">SDK</span> (software development kit) and the source code.</a>  Together with this release an interesting challenge has been made public: the <a href="https://www.tizen.org/blogs/jabancroft/2012/announcing-tizen-developer-contest-intel">Tizen Developer Contest.</a></p>
+<p>And more! <br />
+At <a href="https://www.tizen.org/conference">Tizen Developer Conference</a> (7-9 May 2012 &#8211; San Francisco) Samsung offered a prototype to the conference attendees. <a href="http://www.engadget.com/2012/05/08/tizen-developer-phone-appears-complete-with-4-3-inch-screen-and">Read more at Endgadget!</a></p>
+<txp:arc_youtube video="http://youtu.be/rJ1y7CpIaVA" width="500" ratio="16:9" />
+<p>Together with Boot-to Gecko (B2G) new and promising open-source platforms (and hopefully devices) will be available very soon.<br />
+Bye<br />
+d</p></div>
+  
+  
+
+
+    </article>
+  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/5/">&larr; Older</a>
@@ -429,10 +443,6 @@ I downloaded <a href="http://simon-listens.org/">Simon</a> but not tried yet. Fr
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/12/26/checking-jekyll-build/">Check Jekyll Builds</a>
-      </li>
     
       <li class="post">
         <a href="/blog/2013/06/25/quando-vogliono-aprirti/">Quando Vogliono Aprirti</a>
@@ -468,6 +478,10 @@ I downloaded <a href="http://simon-listens.org/">Simon</a> but not tried yet. Fr
     
       <li class="post">
         <a href="/blog/2012/11/25/concerti-di-rock-prog-esistono-ancora/">Concerti Di Rock Prog&#8230; Esistono Ancora!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/11/24/latest-cern-root-53403-package-for-ubuntu-debian-64bits/">Latest Cern Root 5.34.03 Package for Ubuntu/Debian 64bits</a>
       </li>
     
   </ul>

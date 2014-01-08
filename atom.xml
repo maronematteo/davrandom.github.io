@@ -4,7 +4,7 @@
   <title><![CDATA[/dav/random]]></title>
   <link href="http://davrandom.github.io/atom.xml" rel="self"/>
   <link href="http://davrandom.github.io/"/>
-  <updated>2014-01-02T12:34:49+01:00</updated>
+  <updated>2014-01-08T20:05:46+01:00</updated>
   <id>http://davrandom.github.io/</id>
   <author>
     <name><![CDATA[davrandom]]></name>
@@ -12,19 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Check Jekyll Builds]]></title>
-    <link href="http://davrandom.github.io/blog/2013/12/26/checking-jekyll-build/"/>
-    <updated>2013-12-26T23:40:00+01:00</updated>
-    <id>http://davrandom.github.io/blog/2013/12/26/checking-jekyll-build</id>
-    <content type="html"><![CDATA[<h1>How to check if jekyll builds</h1>
-
-<p>How to check if jekyll builds before pushing to your github pages.</p>
-
-<p><code>jekyll build --safe --trace</code></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Quando Vogliono Aprirti]]></title>
@@ -484,6 +471,21 @@ I downloaded <a href="http://simon-listens.org/">Simon</a> but not tried yet. Fr
 <em>(This wiki article is far from perfect&#8230; but these few lines are ok)</em></p>
 <p>I gave a look also to <a href="http://www.voxforge.org/">VoxForge</a> and it&#8217;s a project to <em>collect</em> transcribed speech, to build up open source &#8220;speech libraries&#8221; (<a href="http://www.voxforge.org/home/docs/faq/faq/what-is-a-speech-corpus-or-speech-corpora">speech corpus</a>). So this is only a piece of what I&#8217;m searching for, but it&#8217;s important to mention that <strong>everyone can help this project simply reading some text</strong>&#8230; <a href="http://www.voxforge.org/home/read">checkout here.</a></p>
 <p><strong>Has anyone there an experience with <span class="caps">OSS</span> software doing full dictation/recognition?</strong></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tizen Developer Conference and Their Prototype Phone]]></title>
+    <link href="http://davrandom.github.io/blog/2012/05/15/tizen-developer-conference-and-their-prototype-phone/"/>
+    <updated>2012-05-15T00:00:00+02:00</updated>
+    <id>http://davrandom.github.io/blog/2012/05/15/tizen-developer-conference-and-their-prototype-phone</id>
+    <content type="html"><![CDATA[<p>Something is happening there at Tizen&#8217;s place.</p>
+<p>On 30th April they released the <a href="https://www.tizen.org/blogs/tsg/2012/tizen-1.0-larkspur">1.0 <span class="caps">SDK</span> (software development kit) and the source code.</a>  Together with this release an interesting challenge has been made public: the <a href="https://www.tizen.org/blogs/jabancroft/2012/announcing-tizen-developer-contest-intel">Tizen Developer Contest.</a></p>
+<p>And more! <br />
+At <a href="https://www.tizen.org/conference">Tizen Developer Conference</a> (7-9 May 2012 &#8211; San Francisco) Samsung offered a prototype to the conference attendees. <a href="http://www.engadget.com/2012/05/08/tizen-developer-phone-appears-complete-with-4-3-inch-screen-and">Read more at Endgadget!</a></p>
+<txp:arc_youtube video="http://youtu.be/rJ1y7CpIaVA" width="500" ratio="16:9" />
+<p>Together with Boot-to Gecko (B2G) new and promising open-source platforms (and hopefully devices) will be available very soon.<br />
+Bye<br />
+d</p>]]></content>
   </entry>
   
 </feed>

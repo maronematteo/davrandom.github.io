@@ -9,7 +9,8 @@
   <meta name="author" content="davrandom">
 
   
-  <meta name="description" content="Latest Cern Root 5.34.03 package for Ubuntu/Debian 64bits is available for download in my sourceforge project with a nice and very helpful page :) &hellip;">
+  <meta name="description" content="Could be the future of internet a mesh network all around the world?
+Il futuro di internet è nelle reti mesh? In una rete parallela a internet fatta &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -31,6 +32,18 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-46962893-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
 
 </head>
 
@@ -71,48 +84,6 @@
     <div id="content">
       <div class="blog-index">
   
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/11/24/latest-cern-root-53403-package-for-ubuntu-debian-64bits/">Latest Cern Root 5.34.03 Package for Ubuntu/Debian 64bits</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-11-24T00:00:00+01:00" pubdate data-updated="true"></time>
-        
-      </p>
-    
-
-  </header>
-
-
-  <div class="entry-content"><p>Latest Cern Root 5.34.03 package for Ubuntu/Debian 64bits is available for download in my <a href="https://sourceforge.net/projects/cernrootdebs/">sourceforge project</a> with a nice and very helpful page :) just <a href="http://scaini.org/site/projects/27/root-packages-for-debian-and-ubuntu">one click from here.</a></p>
-<p>Check it out! <a href="http://sourceforge.net/projects/cernrootdebs/files/latest/download">(direct download)</a></p>
-<p>ps: I compiled this package on Ubuntu 10.04, since Ubuntu 12.04 doesn&#8217;t allow anymore to put packages in /opt. Soon we will have to decide if:<br />
-- continue packaging in 10.04 with packages destistation /opt<br />
-- switch to 12.04 with destination /usr/local<br />
-Since I have both WM it&#8217;s just a matter of taste. Any hint is very welcome.<br />
-d</p></div>
-  
-  
-
-
-    </article>
   
   
     <article>
@@ -280,6 +251,49 @@ d</p>
 
     </article>
   
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/08/04/linux-mint-debian-edition-su-dell-xps-studio/">Linux Mint Debian Edition Su Dell Xps Studio</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-08-04T00:00:00+02:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+
+  </header>
+
+
+  <div class="entry-content"><p>(preamble: I do many things over the web every day, search for solutions, find solutions, implement solutions&#8230; then I forget everything. So some posts like this are just a collection of things for future memory)</p>
+<p>Avevo già provato a installare <span class="caps">LMDE</span> sul mio portatile, ma mi dava kernel panic all&#8217;avvio. Facendo partire la modalità &#8220;compatibility mode&#8221; la live invece si avvia. Ho guardato un po&#8217; le opzoni al boot che ha questa modalità&#8230;</p>
+<p><strong>Soluzione:</strong><br />
+Se avete una Mint o una <span class="caps">LMDE</span> che va in kernel panic all&#8217;avvio provate aggiungendo nelle opzioni di boot</p>
+<pre><code>acpi=off</code></pre>
+<p>Installate <span class="caps">LMDE</span> e poi avviatela dal vostro disco ricordandovi di nuovo di aggiungere questa opzione tra le opzioni di boot. Installate i drivers nvidia e generate il file di configurazione con nvidia-xconfig. RIavviate&#8230; ma <span class="caps">NON</span> mettete l&#8217;opzione acpi=off perché altrimenti non verrà rilevato il display e non partirà X. L&#8217;opzione corretta da mettere è</p>
+<pre><code>noapic</code></pre>
+<p>Dovrebbe funzionare.</p></div>
+  
+  
+
+
+    </article>
+  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/4/">&larr; Older</a>
@@ -295,10 +309,6 @@ d</p>
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/12/26/checking-jekyll-build/">Check Jekyll Builds</a>
-      </li>
     
       <li class="post">
         <a href="/blog/2013/06/25/quando-vogliono-aprirti/">Quando Vogliono Aprirti</a>
@@ -334,6 +344,10 @@ d</p>
     
       <li class="post">
         <a href="/blog/2012/11/25/concerti-di-rock-prog-esistono-ancora/">Concerti Di Rock Prog&#8230; Esistono Ancora!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/11/24/latest-cern-root-53403-package-for-ubuntu-debian-64bits/">Latest Cern Root 5.34.03 Package for Ubuntu/Debian 64bits</a>
       </li>
     
   </ul>
