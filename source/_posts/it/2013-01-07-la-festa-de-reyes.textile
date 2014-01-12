@@ -10,7 +10,7 @@ Oggi parliamo del 6 gennaio, il giorno dei Re Magi, los Reyes Magos appunto. Nel
 
 Io che purtroppo bimbo non sono più, mi accontento di assaggiare i docli tipici della tradizione. Ogni festività ha il suo dolce. Per l'arrivo dei Re in Catalunya fanno una ciambella fritta chiamata "Tortel de Reyes.":http://es.wikipedia.org/wiki/Tortel_%28dulce%29  È una ciambella più o meno rotonda, della stessa pasta con cui si fanno le brioches e il ripieno --normalmente-- è marzapane, completamente ricoperto dalla pasta. L'esterno è comunque appiccicoso, ma non so dirvi cosa sia... è poi decorato con frutta candita e frutta secca, e ha due sorprese! (ne parlo dopo)
 
-p=. !http://scaini.org/site/images/20t.jpg?1357500184!
+p=. !{{ root_url }}/images/20t.jpg?1357500184!
 
 In Catalunya si mangia _esclusivamente_ il giorno dei Re, dopo il pranzo. Sembra che la tradizione di festeggiare l'arrivo dei Re con questo dolce sia in realtà di origine pagana (valà...), durante l'Impero romano si festeggiavano le feste dell'inverno, o feste dei frutti, con dolci fatti con fichi, datteri e miele. Ora sul perché e il percome, i Romani e i fagioli, non sono molto convinto, ho fonti discordanti. Proverò a chiedere alla gente e vedere cosa mi risponde. Comunque, cosa c'entrano i fagioli a questo punto? Beh il dolce contiene due sorprese nascoste: un fagiolo e una figurina/statuetta, normalmente di uno dei Re Magi. Secondo la tradizione chi trova il Re nel suo pezzo di torta viene incoronato re della giornata, e deve vestire una piccola coroncina di cartone che viene consegnata con il dolce. Chi trova il fagiolo... deve pagare il tortel.
 

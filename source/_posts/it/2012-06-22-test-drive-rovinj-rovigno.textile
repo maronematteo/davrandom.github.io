@@ -28,7 +28,7 @@ Ovviamente il difficile consiste nell'uscire dall'Italia: sulla sopraelevata per
 
 Il confine Italia - Slovenia è inesistente... nessuna barriera (stanno in questo momento smontando il posto di blocco sull'autostrada a Rabuiese). Dopo i controlli in uscita dalla Slovenia e in entrata in Croazia ci fermiamo per rifocillarci.
 
-p=. !http://scaini.org/site/images/16t.jpg?1340274623!
+p=. !{{ root_url }}/images/16t.jpg?1340274623!
 
 Come si vede dalla foto siamo carchi: una borsa 30l e una 50l della lous.de (riempite poco...), una borsa da serbatoio, bauletto, stuoina da mare. Per tre giorni abbiamo tanta roba... ma va bene così... è pur sempre un test.
 
@@ -66,7 +66,7 @@ Finora le persone incontrate sono state tutte estremamente gentili.
 
 Ci facciamo un giretto per Rovigno dove prendiamo un gelato. Io sono demolito e optiamo per sederci sul molo.
 
-p=. !http://scaini.org/site/images/17t.jpg?1340278555!
+p=. !{{ root_url }}/images/17t.jpg?1340278555!
 
 Si tratta tra l'altro di tornare verso l'appartamento. Stiamo seduti qui che è meglio. Un bel venticello ci rinfresca, e all'ombra di un baracchino che vende vestitini "estivi" ci godiamo il mare, i pochi turisti che sciabattano, i gabbiani che iniziano la stagione "di grassa". Si sta (starebbe) proprio bene.
 
