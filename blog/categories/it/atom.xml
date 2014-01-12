@@ -4,7 +4,7 @@
   <title><![CDATA[Category: It | /dav/random]]></title>
   <link href="http://davrandom.github.io/blog/categories/it/atom.xml" rel="self"/>
   <link href="http://davrandom.github.io/"/>
-  <updated>2014-01-08T20:05:46+01:00</updated>
+  <updated>2014-01-12T15:21:20+01:00</updated>
   <id>http://davrandom.github.io/</id>
   <author>
     <name><![CDATA[davrandom]]></name>
@@ -20,7 +20,7 @@
     <id>http://davrandom.github.io/blog/2013/06/25/quando-vogliono-aprirti</id>
     <content type="html"><![CDATA[<p>Questo è quello che succede quando vogliono aprirti.</p>
 
-<p>!<a href="http://scaini.org/site/images/39.png!:http://scaini.org/site/images/39.png">http://scaini.org/site/images/39.png!:http://scaini.org/site/images/39.png</a></p>
+<p>!{{ root_url }}/images/39.png!:{{ root_url }}/images/39.png</p>
 
 <p>From Ukraine with love &lt;3</p>
 ]]></content>
@@ -62,23 +62,23 @@ La settimana scorsa qui a Barcellona c'è stato il &ldquo;Mobile World Congress&
 
 <p>p=. <em>Fronte e retro.</em></p>
 
-<p>p=. !<a href="http://scaini.org/site/images/26t.jpg?1362493988!:http://scaini.org/site/images/26.jpg">http://scaini.org/site/images/26t.jpg?1362493988!:http://scaini.org/site/images/26.jpg</a>
-!<a href="http://scaini.org/site/images/36t.jpg?1362494695!:http://scaini.org/site/images/36.jpg">http://scaini.org/site/images/36t.jpg?1362494695!:http://scaini.org/site/images/36.jpg</a></p>
+<p>p=. !{{ root_url }}/images/26t.jpg?1362493988!:{{ root_url }}/images/26.jpg
+!{{ root_url }}/images/36t.jpg?1362494695!:{{ root_url }}/images/36.jpg</p>
 
 <p>p=. <em>Smartphone.</em></p>
 
-<p>p=. !<a href="http://scaini.org/site/images/27t.jpg?1362494057!:http://scaini.org/site/images/27.jpg">http://scaini.org/site/images/27t.jpg?1362494057!:http://scaini.org/site/images/27.jpg</a>
-!<a href="http://scaini.org/site/images/28t.jpg?1362494120!:http://scaini.org/site/images/28.jpg">http://scaini.org/site/images/28t.jpg?1362494120!:http://scaini.org/site/images/28.jpg</a></p>
+<p>p=. !{{ root_url }}/images/27t.jpg?1362494057!:{{ root_url }}/images/27.jpg
+!{{ root_url }}/images/28t.jpg?1362494120!:{{ root_url }}/images/28.jpg</p>
 
 <p>p=. <em>Tablet.</em></p>
 
-<p>p=. !<a href="http://scaini.org/site/images/29t.jpg?1362494155!:http://scaini.org/site/images/29.jpg">http://scaini.org/site/images/29t.jpg?1362494155!:http://scaini.org/site/images/29.jpg</a>
-!<a href="http://scaini.org/site/images/30t.jpg?1362494191!:http://scaini.org/site/images/30.jpg">http://scaini.org/site/images/30t.jpg?1362494191!:http://scaini.org/site/images/30.jpg</a>
-!<a href="http://scaini.org/site/images/31t.jpg?1362494236!:http://scaini.org/site/images/31.jpg">http://scaini.org/site/images/31t.jpg?1362494236!:http://scaini.org/site/images/31.jpg</a>
-!<a href="http://scaini.org/site/images/32t.jpg?1362494372!:http://scaini.org/site/images/32.jpg">http://scaini.org/site/images/32t.jpg?1362494372!:http://scaini.org/site/images/32.jpg</a>
-!<a href="http://scaini.org/site/images/33t.jpg?1362494442!:http://scaini.org/site/images/33.jpg">http://scaini.org/site/images/33t.jpg?1362494442!:http://scaini.org/site/images/33.jpg</a>
-!<a href="http://scaini.org/site/images/34t.jpg?1362494508!:http://scaini.org/site/images/34.jpg">http://scaini.org/site/images/34t.jpg?1362494508!:http://scaini.org/site/images/34.jpg</a>
-!<a href="http://scaini.org/site/images/35t.jpg?1362494637!:http://scaini.org/site/images/35.jpg">http://scaini.org/site/images/35t.jpg?1362494637!:http://scaini.org/site/images/35.jpg</a></p>
+<p>p=. !{{ root_url }}/images/29t.jpg?1362494155!:{{ root_url }}/images/29.jpg
+!{{ root_url }}/images/30t.jpg?1362494191!:{{ root_url }}/images/30.jpg
+!{{ root_url }}/images/31t.jpg?1362494236!:{{ root_url }}/images/31.jpg
+!{{ root_url }}/images/32t.jpg?1362494372!:{{ root_url }}/images/32.jpg
+!{{ root_url }}/images/33t.jpg?1362494442!:{{ root_url }}/images/33.jpg
+!{{ root_url }}/images/34t.jpg?1362494508!:{{ root_url }}/images/34.jpg
+!{{ root_url }}/images/35t.jpg?1362494637!:{{ root_url }}/images/35.jpg</p>
 
 <p>Io li trovo piuttosto ben fatti.
 Nel frattempo sono uscite le `immagini' di ubuntu per Nexus 4, 7 e 10 &hellip; attendo speranzoso di poterlo provare anche sul mio nuovo (davvero!) HTC Desire Z (con cui ho fatto queste foto &ldquo;e non solo&rdquo;:<a href="http://www.flickr.com/photos/davrandom/sets/72157632877238105/">http://www.flickr.com/photos/davrandom/sets/72157632877238105/</a> ).</p>
@@ -107,7 +107,7 @@ Nel frattempo sono uscite le `immagini' di ubuntu per Nexus 4, 7 e 10 &hellip; a
 
 <p>Io che purtroppo bimbo non sono più, mi accontento di assaggiare i docli tipici della tradizione. Ogni festività ha il suo dolce. Per l'arrivo dei Re in Catalunya fanno una ciambella fritta chiamata &ldquo;Tortel de Reyes.&rdquo;:<a href="http://es.wikipedia.org/wiki/Tortel_%28dulce%29">http://es.wikipedia.org/wiki/Tortel_%28dulce%29</a>  È una ciambella più o meno rotonda, della stessa pasta con cui si fanno le brioches e il ripieno &mdash;normalmente&mdash; è marzapane, completamente ricoperto dalla pasta. L'esterno è comunque appiccicoso, ma non so dirvi cosa sia&hellip; è poi decorato con frutta candita e frutta secca, e ha due sorprese! (ne parlo dopo)</p>
 
-<p>p=. !<a href="http://scaini.org/site/images/20t.jpg?1357500184!">http://scaini.org/site/images/20t.jpg?1357500184!</a></p>
+<p>p=. !{{ root_url }}/images/20t.jpg?1357500184!</p>
 
 <p>In Catalunya si mangia <em>esclusivamente</em> il giorno dei Re, dopo il pranzo. Sembra che la tradizione di festeggiare l'arrivo dei Re con questo dolce sia in realtà di origine pagana (valà&hellip;), durante l'Impero romano si festeggiavano le feste dell'inverno, o feste dei frutti, con dolci fatti con fichi, datteri e miele. Ora sul perché e il percome, i Romani e i fagioli, non sono molto convinto, ho fonti discordanti. Proverò a chiedere alla gente e vedere cosa mi risponde. Comunque, cosa c'entrano i fagioli a questo punto? Beh il dolce contiene due sorprese nascoste: un fagiolo e una figurina/statuetta, normalmente di uno dei Re Magi. Secondo la tradizione chi trova il Re nel suo pezzo di torta viene incoronato re della giornata, e deve vestire una piccola coroncina di cartone che viene consegnata con il dolce. Chi trova il fagiolo&hellip; deve pagare il tortel.</p>
 
