@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Raspberry | /dav/random]]></title>
   <link href="http://davrandom.github.io/blog/categories/raspberry/atom.xml" rel="self"/>
   <link href="http://davrandom.github.io/"/>
-  <updated>2014-01-12T15:21:20+01:00</updated>
+  <updated>2014-01-13T10:00:59+01:00</updated>
   <id>http://davrandom.github.io/</id>
   <author>
     <name><![CDATA[davrandom]]></name>
@@ -24,7 +24,8 @@ In my batch of posts there is indeed a topic related to small open computers, an
 <p>I just skip the intro, going fast to the hot <a href="news:">news:</a>
 ??A $25/$35 media centre the size of a pack of playing cards.??</p>
 
-<p>&lt;txp:arc_youtube video=&ldquo;<a href="http://youtu.be/4NR57ELY28s">http://youtu.be/4NR57ELY28s</a>&rdquo; width=&ldquo;500&rdquo; ratio=&ldquo;16:9&rdquo; /></p>
+<iframe width="500" height="281" src="http://davrandom.github.io//www.youtube.com/embed/4NR57ELY28s" frameborder="0" allowfullscreen></iframe>
+
 
 <p>What do you think?</p>
 ]]></content>

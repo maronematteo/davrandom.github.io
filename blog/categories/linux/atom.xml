@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Linux | /dav/random]]></title>
   <link href="http://davrandom.github.io/blog/categories/linux/atom.xml" rel="self"/>
   <link href="http://davrandom.github.io/"/>
-  <updated>2014-01-12T15:21:20+01:00</updated>
+  <updated>2014-01-13T10:00:59+01:00</updated>
   <id>http://davrandom.github.io/</id>
   <author>
     <name><![CDATA[davrandom]]></name>
@@ -126,7 +126,7 @@ A: Yes, though this does void the warranty.</p>
     <id>http://davrandom.github.io/blog/2012/02/02/photo-collage-on-linux</id>
     <content type="html"><![CDATA[<p>I was struggling searching for a software that made a collage from my pictures, mimicking a photo&hellip; and today I succeeded:</p>
 
-<p>!{{ root_url }}/images/5t.jpg?1328191695!:{{ root_url }}/images/5.jpg</p>
+<p>!/images/5t.jpg?1328191695!:/images/5.jpg</p>
 
 <p>It&rsquo;s not really something to be proud but it&rsquo;s indeed a starting point.
 The instructions are well described &ldquo;here&rdquo;:<a href="http://linuxaria.com/article/photo-collage-mosaic-linux?lang=en">http://linuxaria.com/article/photo-collage-mosaic-linux?lang=en</a> .</p>

@@ -4,7 +4,7 @@
   <title><![CDATA[/dav/random]]></title>
   <link href="http://davrandom.github.io/atom.xml" rel="self"/>
   <link href="http://davrandom.github.io/"/>
-  <updated>2014-01-12T15:21:13+01:00</updated>
+  <updated>2014-01-13T10:00:59+01:00</updated>
   <id>http://davrandom.github.io/</id>
   <author>
     <name><![CDATA[davrandom]]></name>
@@ -482,7 +482,7 @@ I downloaded <a href="http://simon-listens.org/">Simon</a> but not tried yet. Fr
 <p>On 30th April they released the <a href="https://www.tizen.org/blogs/tsg/2012/tizen-1.0-larkspur">1.0 <span class="caps">SDK</span> (software development kit) and the source code.</a>  Together with this release an interesting challenge has been made public: the <a href="https://www.tizen.org/blogs/jabancroft/2012/announcing-tizen-developer-contest-intel">Tizen Developer Contest.</a></p>
 <p>And more! <br />
 At <a href="https://www.tizen.org/conference">Tizen Developer Conference</a> (7-9 May 2012 &#8211; San Francisco) Samsung offered a prototype to the conference attendees. <a href="http://www.engadget.com/2012/05/08/tizen-developer-phone-appears-complete-with-4-3-inch-screen-and">Read more at Endgadget!</a></p>
-<txp:arc_youtube video="http://youtu.be/rJ1y7CpIaVA" width="500" ratio="16:9" />
+<p><iframe width="500" height="281" src="http://davrandom.github.io//www.youtube.com/embed/rJ1y7CpIaVA" frameborder="0" allowfullscreen></iframe></p>
 <p>Together with Boot-to Gecko (B2G) new and promising open-source platforms (and hopefully devices) will be available very soon.<br />
 Bye<br />
 d</p>]]></content>
